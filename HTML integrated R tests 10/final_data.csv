@@ -1,0 +1,1451 @@
+﻿Class,Order,Family,Species,Common_Name,C_value,Ch._Num,Method,Cell_Type,Std_Sp.,Refs
+Collembola,Entomobryomorpha,Entomobryidae,Orchesella cincta,Springtail,0.23000000000000001,12,FCM,S,OM,580
+Insecta,Archaeognatha,Machilidae,Machilis distincta,Jumping bristetail,2.9300000000000002,,FCM,MC,BEP,789
+Insecta,Archaeognatha,Machilidae,Machilis fuscistylis,Jumping bristetail,2.4900000000000002,,FCM,MC,BEP,789
+Insecta,Archaeognatha,Machilidae,Machilis helleri,Jumping bristetail,2.5699999999999998,,FCM,MC,BEP,789
+Insecta,Archaeognatha,Machilidae,Machilis hrabei,Jumping bristetail,3.1299999999999999,,FCM,MC,BEP,789
+Insecta,Archaeognatha,Machilidae,Machilis lehnhoferi,Jumping bristetail,2.9500000000000002,,FCM,MC,BEP,789
+Insecta,Archaeognatha,Machilidae,Machilis pallida,Jumping bristetail,3.8900000000000001,,FCM,MC,BEP,789
+Insecta,Archaeognatha,Machilidae,Machilis ticinensis,Jumping bristetail,2.9700000000000002,,FCM,MC,BEP,789
+Insecta,Archaeognatha,Machilidae,Machilis tirolensis,Jumping bristetail,3.6200000000000001,,FCM,MC,BEP,789
+Insecta,Blattaria,Blaberidae,Blabera fusca,Giant Mexican cockroach,3.23,,FD,S,"GD, MM",590
+Insecta,Blattaria,Blaberidae,Blaberus cranifer,Death's head roach,3.2400000000000002,,FD,S,"GD, MM",590
+Insecta,Blattaria,Blaberidae,Blaberus fuscus,Cockroach,3.3599999999999999,,FD,S,MD,53
+Insecta,Blattaria,Blaberidae,Blaptica dubia,Argentinian wood cockroach,2.5299999999999998,,FD,S,"GD, MM",590
+Insecta,Blattaria,Blaberidae,Blaptica dubia,Wood roach,4.54,,FIA,HE,DM,679
+Insecta,Blattaria,Blaberidae,Leucophaea maderae,Madeira cockroach,2.2000000000000002,,FD,S,"GD, MM",590
+Insecta,Blattaria,Blaberidae,Nauphoeta cinerea,Wood roach,5.1500000000000004,,FIA,HE,DM,679
+Insecta,Blattaria,Blaberidae,Nauphoeta cinerea,Wood speckled roach,2.6499999999999999,,FD,S,"GD, MM",590
+Insecta,Blattaria,Blaberidae,Pycnoscelus surinamensis,Surinam cockroach,2.6499999999999999,,FD,S,"GD, MM",590
+Insecta,Blattaria,Blatellidae,Blatella nipponica,Wood roach,2.1299999999999999,,FIA,HE,DM,679
+Insecta,Blattaria,Blattellidae,Blattella germanica,German cockroach,2,,FD,S,MD,53
+Insecta,Blattaria,Blattellidae,Blattella germanica,German cockroach,2.0899999999999999,,FD,S,"GD, MM",590
+Insecta,Blattaria,Blattidae,Blatta orientalis,Oriental cockroach,2.9500000000000002,,FD,S,"GD, MM",590
+Insecta,Blattaria,Blattidae,Blatta orientalis,Oriental cockroach,3.0299999999999998,,FD,HE,"GD, OM",576
+Insecta,Blattaria,Blattidae,Periplaneta americana,American cockroach,2.7200000000000002,,FD,HE,"GD, OM",576
+Insecta,Blattaria,Blattidae,Periplaneta americana,American cockroach,2.7999999999999998,,FD,S,"GD, MM",590
+Insecta,Blattaria,Cryptocercidae,Cryptocercus kyebangensis,Wood roach,1.1599999999999999,,FIA,HE,DM,679
+Insecta,Blattaria,Cryptocercidae,Cryptocercus punctulatus,Wood roach,1.3200000000000001,,FIA,HE,DM,679
+Insecta,Blattodea,Blaberidae,Panchlora nivea,Green banana cockroach,1.52,,FCM,BR,DV,725
+Insecta,Blattodea,Blattellidae,Parcoblatta pensylvanica,Pennsylvania wood cockroach,1.05,,FCM,BR,DV,725
+Insecta,Blattodea,Blattidae,Periplaneta americana,American cockroach,3.4100000000000001,,FCM,BR,DV,725
+Insecta,Coleoptera,Anobiidae,Stegobium paniceum,Drugstore beetle,0.34999999999999998,,FCM,BR,DM,725
+Insecta,Coleoptera,Brentidae,Arrenodes minutus,Beetle,0.70999999999999996,,FCM,BR,DV,725
+Insecta,Coleoptera,Callirhipidae,Zenoa picea,Cedar beetle,1.8799999999999999,,FCM,BR,DV,725
+Insecta,Coleoptera,Carabidae,Bembidion lividulum,Ground beetle,0.84999999999999998,,FCM,BR,DV,641
+Insecta,Coleoptera,Carabidae,Bembidion sp. nr. transversale,Ground beetle,2.2000000000000002,,FCM,BR,"DV, PA",641
+Insecta,Coleoptera,Carabidae,Calosoma parvicolle,Ground beetle,0.81000000000000005,,FCM,BR,DV,725
+Insecta,Coleoptera,Carabidae,Calosoma sayi,Black caterpillar hunter,0.75,,FCM,BR,DV,725
+Insecta,Coleoptera,Carabidae,Calosoma scrutator,Fiery searcher,1.04,,FCM,BR,DV,725
+Insecta,Coleoptera,Carabidae,Carabus auronitens,Ground beetle,0.23000000000000001,,FD,S,MD,53
+Insecta,Coleoptera,Carabidae,Carabus blaptoides,Ground beetle,0.34000000000000002,,FCM,S,TR,814
+Insecta,Coleoptera,Carabidae,Carabus uenoi,Ground beetle,0.28999999999999998,,FCM,S,TR,814
+Insecta,Coleoptera,Carabidae,Carabus yamato,Ground beetle,0.27000000000000002,,FCM,S,TR,814
+Insecta,Coleoptera,Carabidae,Chlaenius sericeus,Ground beetle,0.40999999999999998,,FCM,BR,DV,641
+Insecta,Coleoptera,Carabidae,Cicindela punctulata punctulata,Punctured tiger beetle,0.68000000000000005,,FCM,BR,DM,725
+Insecta,Coleoptera,Carabidae,Cicindela repanda,Bronzed tiger beetle,0.76000000000000001,,FCM,BR,DM,725
+Insecta,Coleoptera,Carabidae,Lionepha tuulukwa,Ground beetle,0.59999999999999998,,FCM,BR,DV,641
+Insecta,Coleoptera,Carabidae,Pterostichus melanarius,Ground beetle,1.04,,FCM,BR,DV,641
+Insecta,Coleoptera,Cerambycidae,Anelaphus parallelus,Oak twig pruner,1.22,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Archodontes melanopus,Live oak root borer,1.9199999999999999,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Astyleiopus variegatus,Long-horned beetle,0.81999999999999995,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Coenopoeus palmeri,Cactus longhorn beetle,0.55000000000000004,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Eburia haldemani,Long-horned beetle,1.8500000000000001,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Enaphalodes atomarius,Long-horned beetle,1.8,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Mallodon dasystomus,Hardwood stump borer,1.8,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Moneilema armatum,Long-horned beetle,0.63,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Neoclytus acuminatus,Red-headed ash borer,0.54000000000000004,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Parelaphidion aspersum,Reddish-brown longhorn beetle,1.1699999999999999,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Plectrodera scalator,Cottonwood borer,0.76000000000000001,,FCM,BR,DV,725
+Insecta,Coleoptera,Cerambycidae,Prionus imbricornis,Tile-horned Prionus beetle,1.3300000000000001,,FCM,BR,DV,725
+Insecta,Coleoptera,Chrysomelidae,Acanthoscelides obtectus,Seed beetle,0.96999999999999997,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Amblycerus robiniae,Spotted bean weevil,0.78000000000000003,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Apthona flaviceps,Leaf beetle,0.46000000000000002,26,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Apthona lutescens,Leaf beetle,0.87,24,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Brontispa longissima,Coconut leaf beetle,0.51000000000000001,,FCM,BR,DM,791
+Insecta,Coleoptera,Chrysomelidae,Bruchidius dichrostachydis,Seed beetle,1.29,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Callosobruchus analis,Bean weevil,0.98999999999999999,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Callosobruchus chinensis,Bean weevil,0.75,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Callosobruchus maculatus,Bean weevil,1.24,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Callosobruchus maculatus,Cowpea weevil,1.24,,FCM,BR,DM,725
+Insecta,Coleoptera,Chrysomelidae,Callosobruchus phaseoli,Bean weevil,1.1200000000000001,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Callosobruchus subinnotatus,Bean weevil,1.47,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Cassida bergeali,Tortoise beetle,1.1100000000000001,18,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida deflorata,Tortoise beetle,0.66000000000000003,18,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida hemisphaerica,Tortoise beetle,1.0700000000000001,20,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida leucanthemi,Tortoise beetle,0.93000000000000005,18,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida pannonica,Tortoise beetle,1.3100000000000001,20,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida rubiginosa,Tortoise beetle,1.02,,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida rufovirens,Tortoise beetle,0.92000000000000004,,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida sanguinolenta,Tortoise beetle,0.94999999999999996,18,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida sanguinosa,Tortoise beetle,0.73999999999999999,18,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida subreticulata,Tortoise beetle,0.70999999999999996,30,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida viridis,Tortoise beetle,0.89000000000000001,24,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Cassida vittata,Tortoise beetle,1.6100000000000001,20,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Chaetocnema chlorophana,Leaf beetle,0.56000000000000005,20,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Chrysolina affinis,Leaf beetle,0.83999999999999997,24,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Chrysolina americana,Leaf beetle,0.56000000000000005,24,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Chrysolina aurichalcea,Leaf beetle,0.80000000000000004,31-41,FD,S,TC,394
+Insecta,Coleoptera,Chrysomelidae,Chrysolina banksi,Leaf beetle,1.1699999999999999,23,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Chrysolina carnifex,Leaf beetle,3.6899999999999999,40,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Chrysolina herbacea,Leaf beetle,0.91000000000000003,24,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Chrysolina peregrina,Leaf beetle,1.0700000000000001,46,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Chrysolina polita,Leaf beetle,1.01,,NS,NS,NS,395
+Insecta,Coleoptera,Chrysomelidae,Chrysolina pyrenaica,Leaf beetle,0.63,40,FD,S,TC,394
+Insecta,Coleoptera,Chrysomelidae,Chrysolina viridana,Leaf beetle,0.62,24,FD,S,TC,394
+Insecta,Coleoptera,Chrysomelidae,Chrysomela populi,Leaf beetle,0.34999999999999998,34,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Coptocephala floralis,Leaf beetle,0.41999999999999998,24,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Crepidodera plutus,Leaf beetle,0.23999999999999999,26,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Crioceris asparagi,Leaf beetle,0.69999999999999996,16,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Crioceris duodecimpunctata,Leaf beetle,0.40000000000000002,16,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Crioceris macilenta,Leaf beetle,0.40999999999999998,16,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Crioceris paracenthesis,Leaf beetle,0.17000000000000001,16,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Cryptocephalus alboscutellatus,Leaf beetle,0.37,30,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Cryptocephalus lusitanicus,Leaf beetle,0.58999999999999997,30,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Cryptocephalus pominorum,Leaf beetle,0.34999999999999998,30,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Cyrtonus arcasi,Leaf beetle,0.75,40,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Cyrtonus arcasi,Leaf beetle,1.22,40,FD,S,TC,398
+Insecta,Coleoptera,Chrysomelidae,Cyrtonus cupreovirens,Leaf beetle,1.1699999999999999,28,FD,S,TC,398
+Insecta,Coleoptera,Chrysomelidae,Cyrtonus fairmairei,Leaf beetle,0.91000000000000003,40,FD,S,TC,398
+Insecta,Coleoptera,Chrysomelidae,Cyrtonus majoricensis,Leaf beetle,0.59999999999999998,28,FD,S,TC,398
+Insecta,Coleoptera,Chrysomelidae,Cyrtonus pardoi,Leaf beetle,1.21,46,FD,S,TC,398
+Insecta,Coleoptera,Chrysomelidae,Cyrtonus plumbeus,Leaf beetle,1.1799999999999999,28,FD,S,TC,398
+Insecta,Coleoptera,Chrysomelidae,Cyrtonus ruficornis,Leaf beetle,0.90000000000000002,28,FD,S,TC,398
+Insecta,Coleoptera,Chrysomelidae,Decellebruchus atrolineatus,Seed beetle,0.81000000000000005,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Dicladispa testacea,Leaf beetle,0.62,16,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Gastrophysa polygoni,Leaf beetle,0.34999999999999998,24,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Lachnaia vicina,Leaf beetle,0.25,24,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Leptinotarsa decemlineata,Leaf beetle,0.46000000000000002,35,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Leptispa filiformis,Leaf beetle,0.46000000000000002,32,FD,S,TC,396
+Insecta,Coleoptera,Chrysomelidae,Longitarsus succineus,Leaf beetle,1.3300000000000001,30,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Macrolenes dentipes,Leaf beetle,0.17999999999999999,22,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Megabruchidius dorsalis,Seed beetle,0.80000000000000004,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Megabruchidius tonkineus,Seed beetle,0.71999999999999997,,FCM,BR,DV,758
+Insecta,Coleoptera,Chrysomelidae,Ophraella communa,Leaf beetle,0.59999999999999998,34,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Ophraella cribata,Leaf beetle,1.3600000000000001,24,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Oreina cacaliae,Leaf beetle,0.98999999999999999,24,FD,S,TC,394
+Insecta,Coleoptera,Chrysomelidae,Oxylepus deflexicollis,Leaf beetle,0.67000000000000004,,FD,S,TC,397
+Insecta,Coleoptera,Chrysomelidae,Pachybrachis anoguttatus,Leaf beetle,0.25,16,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Phaedon cochleariae,Leaf beetle,0.52000000000000002,34,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Podagrica fuscicornis,Leaf beetle,1.98,40,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Prasocuris junci,Leaf beetle,0.20000000000000001,34,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Sphaeroderma testaceum,Leaf beetle,1.79,52,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Timarcha balearica,Leaf beetle,0.91000000000000003,22,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Timarcha fallax,Leaf beetle,0.81000000000000005,20,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Timarcha intermedia,Leaf beetle,0.81999999999999995,20,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Timarcha marginicollis,Leaf beetle,0.82999999999999996,20,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Uroplata nigritarsis,Leaf beetle,0.91000000000000003,20,FD,S,TC,396
+Insecta,Coleoptera,Chrysomelidae,Xanthogaleruca luteola,Leaf beetle,0.35999999999999999,30,FD,S,TC,393
+Insecta,Coleoptera,Chrysomelidae,Zabrotes subfasciatus,Mexican bean weevil,0.75,,FCM,BR,DV,758
+Insecta,Coleoptera,Cleridae,Necrobia rufipes,Red-legged ham beetle,1.29,,FCM,BR,DV,725
+Insecta,Coleoptera,Coccinellidae,Adalia bipunctata,Two-spotted ladybird beetle,0.35999999999999999,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Anatis labiculata,Fifteen-spotted ladybird beetle,0.67000000000000004,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Anatis ocellata,Eyed ladybird beetle,0.73999999999999999,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Anisosticta bitriangularis,Ladybird beetle,0.34000000000000002,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Brachiacantha ursina,Ladybird beetle,0.64000000000000001,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Ceratomegilla undecimnotata,Ladybird beetle,0.35999999999999999,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Coccidula rufa,Ladybird beetle,0.73999999999999999,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Coccinella quinquepunctata,Five-spotted ladybird beetle,0.48999999999999999,,FIA,"HE, S","DM, TM",178
+Insecta,Coleoptera,Coccinellidae,Coccinella septempunctata,Seven-spotted ladybird beetle,0.33000000000000002,,FIA,"HE, S","DM, TM",178
+Insecta,Coleoptera,Coccinellidae,Coccinella septempunctata,Seven-spotted ladybird beetle,0.42999999999999999,,FCM,BR,DM,741
+Insecta,Coleoptera,Coccinellidae,Coccinella trifasciata,Three-banded ladybird beetle,0.42999999999999999,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Coccinula quatordecimpustulata,Ladybird beetle,0.46000000000000002,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Coleomegilla maculata lengi,Pink spotted ladybird beetle,0.19,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Cryptolaemus montrouzieri,Crypt,0.80000000000000004,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Cycloneda munda,Spotless ladybird beetle,0.51000000000000001,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Cycloneda sanguinea limbifer,Ladybird beetle,0.29999999999999999,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Cynegetis impunctata,Ladybird beetle,0.51000000000000001,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Delphastus catalinae,Whitefly destroyer,0.31,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Exochomus quadripustulatus,Ladybird beetle,1.71,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Harmonia axyridis,Multicoloured Asian ladybird beetle,0.34000000000000002,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Harmonia axyridis,Multicoloured Asian ladybird beetle,0.46999999999999997,,FCM,BR,DM,741
+Insecta,Coleoptera,Coccinellidae,Harmonia dimidiata,Ladybird beetle,0.32000000000000001,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Henosepilachna niponica,Ladybird beetle,1.04,,FCM,BR,DM,741
+Insecta,Coleoptera,Coccinellidae,Henosepilachna pustulosa,Ladybird beetle,1.0700000000000001,,FCM,BR,DM,741
+Insecta,Coleoptera,Coccinellidae,Henosepilachna vigintioctomaculata,Twenty-eight-spotted potato ladybird beetle,1.22,,FCM,BR,DM,741
+Insecta,Coleoptera,Coccinellidae,Henosepilachna vigintioctopunctata,Twenty-eight-spotted ladybird beetle,0.67000000000000004,,FCM,BR,DM,741
+Insecta,Coleoptera,Coccinellidae,Henosepilachna yasutomii,Ladybird beetle,1.45,,FCM,BR,DM,741
+Insecta,Coleoptera,Coccinellidae,Hippodamia convergens,Convergent ladybird beetle,0.42999999999999999,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Hippodamia variagata,Ladybird beetle,0.28999999999999998,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Lindorus lophanthae,Scale destroyer,0.56999999999999995,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Myzia pullata,Ladybird beetle,0.87,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Neoharmonia venusta,Ladybird beetle,0.39000000000000001,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Oenopia conglobata,Ladybird beetle,0.42999999999999999,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Propylea quatuorodecimpunctata,Fourteen-spotted ladybird beetle,0.5,,FIA,"HE, S","DM, TM",178
+Insecta,Coleoptera,Coccinellidae,Psyllobora vigintiduopunctata,Twenty-two-spotted ladybird beetle,0.98999999999999999,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Psyllobora vigintimaculata,Ladybird beetle,0.41999999999999998,,FIA,S,DM,178
+Insecta,Coleoptera,Coccinellidae,Rhyzobius litura,Ladybird beetle,0.88,,FIA,HE,TM,178
+Insecta,Coleoptera,Coccinellidae,Tytthaspis sedecimpunctata,Sixteen-spotted lady beetle,0.23999999999999999,,FIA,"HE, S","DM, TM",178
+Insecta,Coleoptera,Cupedidae,Priacma serrata,Reticulated beetle,1.0600000000000001,,FCM,BR,DV,725
+Insecta,Coleoptera,Curculionidae,Anthonomus fulvus,Weevil,0.62,,FCM,BR,"GD, V",579
+Insecta,Coleoptera,Curculionidae,Anthonomus grandis,Boll weevil,0.84999999999999998,,FCM,BR,"GD, V",579
+Insecta,Coleoptera,Curculionidae,Anthonomus grandis,Boll weevil,0.85999999999999999,,FD,"HE, S","DM, GD, OM",576
+Insecta,Coleoptera,Curculionidae,Anthonomus hunteri,Weevil,0.73999999999999999,,FCM,BR,"GD, V",579
+Insecta,Coleoptera,Curculionidae,Anthonomus squamans,Weevil,0.73999999999999999,,FCM,BR,"GD, V",579
+Insecta,Coleoptera,Curculionidae,Aramigus tessellatus,Weevil,3.3199999999999998,,FCM,BR,GD,349
+Insecta,Coleoptera,Curculionidae,Aramigus tessellatus (3n),Weevil,5.0199999999999996,,FCM,BR,GD,349
+Insecta,Coleoptera,Curculionidae,Dendroctonus ponderosa,Mountain pine beetle,0.20999999999999999,,FCM,BR,DM,709
+Insecta,Coleoptera,Curculionidae,Lissorhoptrus oryzophilus,Rice water weevil,1,,FCM,BR,DM,791
+Insecta,Coleoptera,Curculionidae,Xyleborus sp.,Ambrosia beetle,0.23999999999999999,,FCM,BR,DM,725
+Insecta,Coleoptera,Dermestidae,Dermestes ater,Larder beetle,1.46,34,BCA,WB,NS,432
+Insecta,Coleoptera,Dermestidae,Dermestes frischii,Larder beetle,0.92000000000000004,34,BCA,WB,NS,432
+Insecta,Coleoptera,Dermestidae,Dermestes haemorrhoidalis,Larder beetle,0.90000000000000002,34,BCA,WB,NS,432
+Insecta,Coleoptera,Dermestidae,Dermestes lardarius,Larder beetle,1.49,34,BCA,WB,NS,432
+Insecta,Coleoptera,Dermestidae,Dermestes maculatus,Larder beetle,1.0600000000000001,34,BCA,WB,NS,432
+Insecta,Coleoptera,Dermestidae,Dermestes peruvianus,Larder beetle,1.98,34,BCA,WB,NS,432
+Insecta,Coleoptera,Dermestidae,Trogoderma sp.,Dermestid beetle,0.27000000000000002,,FCM,BR,DM,725
+Insecta,Coleoptera,Dytiscidae,Colymbetes fuscus,Diving beetle,1.01,,FD,S,MD,53
+Insecta,Coleoptera,Dytiscidae,Coptotomus sp.,Predaceous diving beetle,0.75,,FCM,BR,DV,725
+Insecta,Coleoptera,Dytiscidae,Cybister fimbriolatus,Predaceous diving beetle,2.6400000000000001,,FCM,BR,DV,725
+Insecta,Coleoptera,Dytiscidae,Dytiscus marginalis,Diving beetle,1.22,,FD,S,MD,53
+Insecta,Coleoptera,Dytiscidae,Hydaticus bimarginatus,Predaceous diving beetle,0.96999999999999997,,FCM,BR,DV,725
+Insecta,Coleoptera,Elateridae,Conoderus bellus,Click beetle,0.67000000000000004,,FCM,BR,DM,725
+Insecta,Coleoptera,Elateridae,Conoderus lividus,Click beetle,0.75,,FCM,BR,DV,725
+Insecta,Coleoptera,Elateridae,Deilelater physoderus,Glowing click beetle,0.72999999999999998,,FCM,BR,DV,725
+Insecta,Coleoptera,Elateridae,Lanelater hayekae,Click beetle,0.90000000000000002,,FCM,BR,DV,725
+Insecta,Coleoptera,Elateridae,Megapenthes insignis,Click beetle,1.45,,FCM,BR,DV,725
+Insecta,Coleoptera,Elateridae,Mulsanteus sp.,Click beetle,2.54,,FCM,BR,DV,725
+Insecta,Coleoptera,Elateridae,Orthostethus parallelus,Click beetle,0.90000000000000002,,FCM,BR,DV,725
+Insecta,Coleoptera,Geotrupidae,Thorectes balearicus,Chafer beetle,0.82999999999999996,,FD,S,TC,59
+Insecta,Coleoptera,Hydrophilidae,Hydrochara sp.,Water scavenger beetle,1.76,,FCM,BR,DM,725
+Insecta,Coleoptera,Hydrophilidae,Hydrophilus triangularis,Giant water scavenger beetle,1.48,,FCM,BR,DV,725
+Insecta,Coleoptera,Hydrophilidae,Phaenonotum exstriatum,Water scavenger beetle,0.70999999999999996,,FCM,BR,DV,725
+Insecta,Coleoptera,Hydrophilidae,Tropisternus sp. 1,Water scavenger beetle,1.3500000000000001,,FCM,BR,DV,725
+Insecta,Coleoptera,Hydrophilidae,Tropisternus sp. 2,Water scavenger beetle,1.1699999999999999,,FCM,BR,DM,725
+Insecta,Coleoptera,Lampyridae,Abscondita terminalis,Firefly,0.5,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Diaphanes nubilus,Firefly,0.53000000000000003,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Diaphanes sp. 1,Firefly,1.01,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Diaphanes sp. 2,Firefly,1.2,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Lamprigera sp. 1,Firefly,1.1299999999999999,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Lamprigera sp. 2,Firefly,1.3100000000000001,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Lamprigera yunnana,Firefly,1.0700000000000001,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Luciola sp.,Firefly,1.29,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Pygoluciola qingyu,Firefly,0.73999999999999999,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Pygoluciola sp.,Firefly,1.1200000000000001,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Pyrocoelia pygidialis,Firefly,0.41999999999999998,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Pyrocoelia sp. 1,Firefly,0.51000000000000001,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Pyrocoelia sp. 2,Firefly,0.73999999999999999,,FCM,BR,DM,587
+Insecta,Coleoptera,Lampyridae,Pyrocoelia sp. 3,Firefly,0.75,,FCM,BR,DM,587
+Insecta,Coleoptera,Leiodidae,Ptomaphagus hirtus,Round fungus beetle,0.81999999999999995,,FCM,BR,DV,725
+Insecta,Coleoptera,Meloidae,Cysteodemus wislizeni,Black bladder-bodied blister beetle,0.40999999999999998,,FCM,BR,DV,725
+Insecta,Coleoptera,Meloidae,Epicauta albida,Blister beetle,0.70999999999999996,,FCM,BR,DV,725
+Insecta,Coleoptera,Meloidae,Epicauta atrivittata,Blister beetle,0.52000000000000002,,FCM,BR,DM,725
+Insecta,Coleoptera,Meloidae,Epicauta polingi,Blister beetle,0.53000000000000003,,FCM,BR,DM,725
+Insecta,Coleoptera,Meloidae,Pyrota akhurstiana,Blister beetle,0.40999999999999998,,FCM,BR,DV,725
+Insecta,Coleoptera,Passalidae,Odontotaenius disjunctus,Patent leather beetle,0.75,,FCM,BR,DV,725
+Insecta,Coleoptera,Phengodidae,Phengodes fuscipes,Glowworm beetle,2.2799999999999998,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Ataenius imbricatus,Dung beetle,0.37,,FCM,BR,DM,725
+Insecta,Coleoptera,Scarabaeidae,Chrysina gloriosa,Scarab beetle,0.84999999999999998,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Chrysina woodi,Wood's jewel scarab beetle,0.88,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Cotinis nitida,June beetle,0.67000000000000004,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Dynastes tityus,Eastern hercules beetle,0.83999999999999997,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Martineziana dutertrei,Fire ant beetle,0.46999999999999997,,FCM,BR,DM,725
+Insecta,Coleoptera,Scarabaeidae,Oxygrylius ruginasus,Rhinoceros beetle,1.46,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Pelidnota punctata,Grapevine beetle,1.1000000000000001,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Phyllophaga ephilida,Scarab beetle,1.3100000000000001,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Phyllophaga submucida,Scarab beetle,1.4299999999999999,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Platytomus longulus,Scarab beetle,0.22,,FCM,BR,DM,725
+Insecta,Coleoptera,Scarabaeidae,Strategus aloeus,Ox beetle,0.72999999999999998,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabaeidae,Tomarus sallaei,Carrot beetle,0.91000000000000003,,FCM,BR,DV,725
+Insecta,Coleoptera,Scarabeidae,Rhizotrogus lepidus,Chafer,2.71,,FD,S,TC,59
+Insecta,Coleoptera,Scarabeidae,Scarabaeus laticollis,Dung beetle,1.3100000000000001,,FD,S,TC,59
+Insecta,Coleoptera,Scarabeidae,Scarabaeus semipunctatus,Dung beetle,0.80000000000000004,,FD,S,TC,59
+Insecta,Coleoptera,Silvanidae,Oryzaephilus surinamensis,Saw-toothed grain beetle,0.16,,FCM,BR,DM,739
+Insecta,Coleoptera,Silvanidae,Oryzaephilus surinamensis,Saw-toothed grain beetle,0.16,,FCM,BR,DV,725
+Insecta,Coleoptera,Silvanidae,Oryzaephilus surinamensis,Saw-toothed grain beetle,0.25,18,FCM,BR,RS,691
+Insecta,Coleoptera,Staphylinidae,Biocrypta prospiciens,Rove beetle,0.5,,FCM,BR,DV,725
+Insecta,Coleoptera,Tenebrionidae,Akis acuminata,Darkling beetle,0.22,16,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Akis bacarozzo,Darkling beetle,0.31,16,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Alphitobius diaperinus,Flour beetle,0.28000000000000003,,FD,S,TC,6
+Insecta,Coleoptera,Tenebrionidae,Ammobius rufus,Darkling beetle,0.34000000000000002,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Arthrodeis punctulatus,Darkling beetle,0.44,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Arthrodeis sp.,Darkling beetle,0.38,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Asida planipennis,Darkling beetle,0.28999999999999998,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Blaps alternans,Darkling beetle,0.48999999999999999,,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Blaps gigas,Darkling beetle,0.51000000000000001,35,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Blaps lethifera,Darkling beetle,0.85999999999999999,37,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Cossyphus dejeani,Darkling beetle,0.56999999999999995,,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Cossyphus hoffmannseggi,Darkling beetle,0.48999999999999999,18,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Elenophorus collaris,Darkling beetle,0.28999999999999998,26,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Eleodes spinipes spinipes,Stink beetle,0.83999999999999997,,FCM,BR,DV,725
+Insecta,Coleoptera,Tenebrionidae,Gonocephalum oblitum,Darkling beetle,0.58999999999999997,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Gonocephalum patruele,Darkling beetle,0.80000000000000004,20,FD,S,TC,240
+Insecta,Coleoptera,Tenebrionidae,Gonocephalum rusticum,Darkling beetle,0.87,20,FD,S,TC,240
+Insecta,Coleoptera,Tenebrionidae,Hegeter amaroides,Darkling beetle,0.26000000000000001,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Hegeter brevicollis,Darkling beetle,0.27000000000000002,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Hegeter fernandezi,Darkling beetle,0.20999999999999999,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Hegeter grancanariensis,Darkling beetle,0.27000000000000002,20,FD,S,TC,240
+Insecta,Coleoptera,Tenebrionidae,Hegeter politus,Darkling beetle,0.28000000000000003,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Hegeter tristis,Darkling beetle,0.27000000000000002,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Melanochrus blairi,Darkling beetle,0.26000000000000001,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Melanochrus lacordairei,Darkling beetle,0.25,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Melasmana lineatum,Darkling beetle,0.34999999999999998,22,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Micrositus semicostatus,Darkling beetle,0.28000000000000003,26,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Misolampus goudoti,Darkling beetle,0.35999999999999999,20,FD,S,TC,240
+Insecta,Coleoptera,Tenebrionidae,Morica planata,Darkling beetle,0.23000000000000001,16,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Nesotes picipens,Darkling beetle,0.41999999999999998,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Nesotes porrectus,Darkling beetle,0.42999999999999999,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Nesotes viridicollis,Darkling beetle,0.32000000000000001,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Pachychila sublunata,Darkling beetle,0.28000000000000003,20,FD,S,TC,240
+Insecta,Coleoptera,Tenebrionidae,Paivaea hispida,Darkling beetle,0.29999999999999999,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Phylan semicostatus,Darkling beetle,0.25,,FD,S,TC,380
+Insecta,Coleoptera,Tenebrionidae,Pimelia canariensis,Darkling beetle,0.48999999999999999,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia criba,Darkling beetle,0.34999999999999998,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Pimelia estevezi,Darkling beetle,0.34999999999999998,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia fernandez-lopezi,Darkling beetle,0.40999999999999998,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia granulicollis,Darkling beetle,0.32000000000000001,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia granulicollis,Darkling beetle,0.39000000000000001,18,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Pimelia laevigata costipennis,Darkling beetle,0.46999999999999997,18,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Pimelia laevigata costipennis,Darkling beetle,0.75,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia laevigata laevigata,Darkling beetle,0.65000000000000002,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia laevigata validipes,Darkling beetle,0.64000000000000001,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia lutaria,Darkling beetle,0.58999999999999997,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia radula ascendens,Darkling beetle,0.48999999999999999,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia radula granulata,Darkling beetle,0.52000000000000002,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia sparsa albohumeralis,Darkling beetle,0.25,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia sparsa serrimargo,Darkling beetle,0.28000000000000003,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Pimelia sparsa sparsa,Darkling beetle,0.23000000000000001,,FD,S,TC,381
+Insecta,Coleoptera,Tenebrionidae,Scaurus striatus,Darkling beetle,0.25,24,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Scleron asperelum,Darkling beetle,0.48999999999999999,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Stenosis intricata,Darkling beetle,0.17999999999999999,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Tenebrio molitor,Yellow mealworm beetle,0.52000000000000002,20,FD,S,TC,240
+Insecta,Coleoptera,Tenebrionidae,Tentyria grossa,Darkling beetle,0.29999999999999999,20,FD,S,TC,240
+Insecta,Coleoptera,Tenebrionidae,Tentyria schaumi,Darkling beetle,0.26000000000000001,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Tribolium anaphe,Flour beetle,0.26000000000000001,18,FD,S,TC,6
+Insecta,Coleoptera,Tenebrionidae,Tribolium audax,Flour beetle,0.16,20,FD,S,TC,6
+Insecta,Coleoptera,Tenebrionidae,Tribolium brevicornis,Flour beetle,0.39000000000000001,18,FD,S,TC,6
+Insecta,Coleoptera,Tenebrionidae,Tribolium castaneum,Flour beetle,0.20000000000000001,,FD,S,DMA,6
+Insecta,Coleoptera,Tenebrionidae,Tribolium castaneum,Flour beetle,0.20999999999999999,20,FD,S,NS,241
+Insecta,Coleoptera,Tenebrionidae,Tribolium castaneum,Flour beetle,0.20999999999999999,,BCA,WB,NS,64
+Insecta,Coleoptera,Tenebrionidae,Tribolium castaneum,Flour beetle,0.20999999999999999,,FCM,BR,DM,709
+Insecta,Coleoptera,Tenebrionidae,Tribolium confusum,Flour beetle,0.25,18,FD,S,TC,6
+Insecta,Coleoptera,Tenebrionidae,Tribolium destructor,Flour beetle,0.17000000000000001,18,FD,S,TC,6
+Insecta,Coleoptera,Tenebrionidae,Tribolium freemani,Flour beetle,0.23999999999999999,20,FD,S,TC,6
+Insecta,Coleoptera,Tenebrionidae,Tribolium madens,Flour beetle,0.26000000000000001,20,FD,S,TC,6
+Insecta,Coleoptera,Tenebrionidae,Uytteenboogaartia punctipennis,Darkling beetle,0.25,20,FD,S,TC,241
+Insecta,Coleoptera,Tenebrionidae,Zophosis bicarinata,Darkling beetle,0.23000000000000001,20,FD,S,TC,241
+Insecta,Coleoptera,Trogidae,Omorgus suberosus,Hide beetle,1.6899999999999999,,FCM,BR,DV,725
+Insecta,Coleoptera,Zopheridae,Zopherus nodulosus,Beetle,0.46000000000000002,,FCM,BR,DV,725
+Insecta,Dermaptera,Labiduridae,Labidura riparia,Tawny earwig,0.53000000000000003,,FCM,BR,DV,725
+Insecta,Diptera,Anthomyiidae,Delia antiqua,Onion fly,0.72999999999999998,,FD,BR,NS,208
+Insecta,Diptera,Calliphoridae,Calliphora erythrocephala,Blowfly,0.65000000000000002,,FD,S,MD,53
+Insecta,Diptera,Calliphoridae,Calliphora vicina,European blow fly,0.76000000000000001,,FCM,BR,DV,726
+Insecta,Diptera,Calliphoridae,Chrysomya albiceps,Blowfly,0.71999999999999997,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Chrysomya marginalis,Blowfly,0.81999999999999995,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Chrysomya megacephala,Blowfly,0.84999999999999998,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Chrysomya megacephala,Latrine fly,0.67000000000000004,,FCM,BR,DV,726
+Insecta,Diptera,Calliphoridae,Chrysomya phaonis,Blowfly,0.98999999999999999,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Chrysomya pinguis,Blowfly,1.1599999999999999,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Chrysomya putoria,Blowfly,0.91000000000000003,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Chrysomya rufifacies,Blowfly,0.56999999999999995,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Chrysomya rufifacies,Hairy maggot blow fly,0.44,,FCM,BR,DV,726
+Insecta,Diptera,Calliphoridae,Chrysomya saffranea,Blowfly,0.87,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Chrysomya varipes,Blowfly,0.52000000000000002,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Cochliomyia hominivorax,Screwworm fly,0.45000000000000001,,FCM,BR,DV,726
+Insecta,Diptera,Calliphoridae,Cochliomyia macellaria,Screwworm fly,0.54000000000000004,,FCM,BR,DV,726
+Insecta,Diptera,Calliphoridae,Cynomya cadaverina,Shiny blue bottle fly,0.64000000000000001,,FCM,BR,CR,726
+Insecta,Diptera,Calliphoridae,Lucilia cuprina,Australian sheep blow fly,0.63,,FCM,BR,DV,726
+Insecta,Diptera,Calliphoridae,Lucilia cuprina,Blowfly,0.81000000000000005,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Lucilia sericata,Blowfly,0.93000000000000005,12,FD,BR,GD,627
+Insecta,Diptera,Calliphoridae,Lucilia sericata,Common green bottle fly,0.68999999999999995,,FCM,BR,DV,726
+Insecta,Diptera,Calliphoridae,Phormia regina,Black blow fly,0.54000000000000004,,FCM,BR,DV,726
+Insecta,Diptera,Calliphoridae,Protophormia terraenovae,Northern blow fly,0.78000000000000003,,FCM,BR,CR,726
+Insecta,Diptera,Calliphoridae,Protophormia terranovae,Blowfly,1.1399999999999999,12,FD,BR,GD,627
+Insecta,Diptera,Cecidomyiidae,Mayetiola destructor,Hessian fly,0.089999999999999997,,NS,NS,NS,582
+Insecta,Diptera,Cecidomyiidae,Mayetiola destructor,Hessian fly (female),0.16,,FCM,BR,DM,237
+Insecta,Diptera,Cecidomyiidae,Mayetiola destructor,Hessian fly (male),0.12,,FCM,BR,DM,237
+Insecta,Diptera,Chaoboridae,Chaoborus americanus,Phantom midge,0.40000000000000002,,FD,S,GD,411
+Insecta,Diptera,Chaoboridae,Corethrella brakeleyi,Phantom midge,0.46999999999999997,,FD,S,GD,411
+Insecta,Diptera,Chaoboridae,Mochlonyx velutinus,Phantom midge,0.55000000000000004,,FD,S,GD,411
+Insecta,Diptera,Chironomidae,Ablabesmyia monilis,Midge,0.16,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Chironomus acerbiphilus,Midge,0.17000000000000001,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Chironomus fusciceps,Midge,0.16,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Chironomus nippodorsalis,Midge,0.12,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Chironomus plumosus,Midge,0.14999999999999999,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Chironomus riparius,Harlequin fly,0.20000000000000001,,FCM,BR,DM,737
+Insecta,Diptera,Chironomidae,Chironomus riparius,Midge,0.20000000000000001,,FCM,BR,DM,696
+Insecta,Diptera,Chironomidae,Chironomus salinarius,Midge,0.16,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Chironomus sulfurosus,Midge,0.14999999999999999,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Chironomus tentans,Midge,0.20999999999999999,,NS,NS,NS,395
+Insecta,Diptera,Chironomidae,Chironomus tentans,Midge,0.22,,BCA,WB,NS,448
+Insecta,Diptera,Chironomidae,Chironomus tentans,Midge,0.25,8,BCA,SG,NS,99
+Insecta,Diptera,Chironomidae,Clunio tsushimensis,Midge,0.070000000000000007,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Cricotopus bicinctus,Midge,0.10000000000000001,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Cricotopus sp.,Midge,0.14999999999999999,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Cricotopus sylvestris,Midge,0.11,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Diamesa japonica,Midge,0.080000000000000002,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Dicrotendipes pelochloris,Midge,0.12,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Glyptotendipes tokunagai,Midge,0.16,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Hydrobaenus tsukubalatus,Midge,0.080000000000000002,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Paraborniella tonnoiri,Midge,0.20000000000000001,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Paratanytarsus grimmii,Midge,0.10000000000000001,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Polypedilum nubifer,Midge,0.10000000000000001,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Polypedilum tamanigrum,Midge,0.11,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Polypedilum vanderplanki,Midge,0.10000000000000001,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Prodiamesa olivacea,Midge,0.13,,NS,NS,NS,395
+Insecta,Diptera,Chironomidae,Prodiamesa olivacea,Midge,0.13,,FD,BR,GD,569
+Insecta,Diptera,Chironomidae,Sergentia kizakiensis,Midge,0.10000000000000001,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Stictochironomus akizukii,Midge,0.13,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Tanypus punctipennis,Midge,0.16,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Tanytarsus takahashii,Midge,0.089999999999999997,,FCM,BR,DM,808
+Insecta,Diptera,Chironomidae,Telmatogeton japonicus,Midge,0.13,,FCM,BR,DM,808
+Insecta,Diptera,Culicidae,Aedes aegypti,Yellow fever mosquito,0.81000000000000005,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes aegypti,Yellow fever mosquito,0.82999999999999996,,BCA,WB,NS,552
+Insecta,Diptera,Culicidae,Aedes aegypti,Yellow fever mosquito,1.25,,FD,S,GD,620
+Insecta,Diptera,Culicidae,Aedes albopictus,Mosquito,0.62-1.66,6,FD,S,GD,259
+Insecta,Diptera,Culicidae,Aedes albopictus,Mosquito,0.86-1.32,,BCA,WB,NS,55
+Insecta,Diptera,Culicidae,Aedes alcasidi,Mosquito,0.96999999999999997,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes bahamensis,Mosquito,1.3799999999999999,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes canadensis,Mosquito,0.90000000000000002,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes caspius,Mosquito,0.98999999999999999,6,FD,TS,MD,239
+Insecta,Diptera,Culicidae,Aedes cinereus,Mosquito,1.21,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes communis,Mosquito,1.01,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes cooki,Mosquito,0.58999999999999997,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes excrucianus,Mosquito,1.5,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes flavopictus,Mosquito,1.3300000000000001,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes hebrideus,Mosquito,0.96999999999999997,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes heischii,Mosquito,1.1200000000000001,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes katherinensis,Mosquito,1.28,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes malayensis,Mosquito,0.93999999999999995,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes metallicus,Mosquito,1.0900000000000001,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes polynesiensis,Mosquito,0.72999999999999998,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes pseudoalbopictus,Mosquito,1.29,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes pseudoscutellaris,Mosquito,0.58999999999999997,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes seatoi,Mosquito,0.96999999999999997,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes stimulans,Mosquito,1.4399999999999999,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes triseriatus,Mosquito,1.52,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes triseriatus,Mosquito,1.52,,BCA,WB,NS,55
+Insecta,Diptera,Culicidae,Aedes unilineatus,Mosquito,1.0600000000000001,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Aedes zoosophus,Mosquito,1.8999999999999999,6,FD,S,GD,410
+Insecta,Diptera,Culicidae,Anopheles atroparvus,Mosquito,0.23999999999999999,6,FD,TS,MD,239
+Insecta,Diptera,Culicidae,Anopheles freeborni,Mosquito,0.28999999999999998,6,FD,TS,MD,239
+Insecta,Diptera,Culicidae,Anopheles gambiae,Malaria mosquito,0.27000000000000002,6,BCA,WB,NS,47
+Insecta,Diptera,Culicidae,Anopheles labranchiae,Mosquito,0.23000000000000001,6,FD,TS,MD,239
+Insecta,Diptera,Culicidae,Anopheles quadrimaculatus,Mosquito,0.23999999999999999,,BCA,WB,NS,55
+Insecta,Diptera,Culicidae,Anopheles quadrimaculatus,Mosquito,0.25,6,FD,S,GD,411
+Insecta,Diptera,Culicidae,Anopheles stephensi,Mosquito,0.23999999999999999,6,FD,TS,MD,239
+Insecta,Diptera,Culicidae,Armigeres subalbanus,Mosquito,1.1200000000000001,6,FD,S,GD,411
+Insecta,Diptera,Culicidae,Culex pipiens,Mosquito,0.54000000000000004,,FD,S,GD,411
+Insecta,Diptera,Culicidae,Culex pipiens,Mosquito,0.54000000000000004,,BCA,WB,NS,55
+Insecta,Diptera,Culicidae,Culex pipiens,Mosquito,1.02,6,FD,TS,MD,239
+Insecta,Diptera,Culicidae,Culex quinquefasciatus,Mosquito,0.54000000000000004,6,FD,S,GD,411
+Insecta,Diptera,Culicidae,Culex restuans,Mosquito,1.02,6,FD,S,GD,411
+Insecta,Diptera,Culicidae,Culiseta litorea,Mosquito,0.92000000000000004,6,FD,TS,MD,239
+Insecta,Diptera,Culicidae,Culiseta melanura,Mosquito,1.25,6,FD,S,GD,411
+Insecta,Diptera,Culicidae,Culiseta moristans,Mosquito,1.21,6,FD,S,GD,411
+Insecta,Diptera,Culicidae,Haemagogus equinus,Mosquito,1.1200000000000001,6,FD,S,GD,411
+Insecta,Diptera,Culicidae,Sabethes cyaneus,Mosquito,0.79000000000000004,6,FD,S,GD,411
+Insecta,Diptera,Culicidae,Toxorhynchites splendens,Mosquito,0.62,6,FD,S,GD,411
+Insecta,Diptera,Culicidae,Wyeomyia smithii,Mosquito,0.85999999999999999,6,FD,S,GD,411
+Insecta,Diptera,Dixidae,Dixa obscura,Meniscus midge,0.16,,FD,TS,MD,239
+Insecta,Diptera,Drosophilidae,Chymomyza amoena,Fruit fly / Pomace fly / Vinegar fly,0.40000000000000002,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Chymomyza pararufithorax,Fruit fly / Pomace fly / Vinegar fly,0.27000000000000002,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Chymomyza pararufithorax,Fruit fly / Pomace fly / Vinegar fly,0.28999999999999998,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Chymomyza procnemis,Fruit fly / Pomace fly / Vinegar fly,0.27000000000000002,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Chymomyza procnemis,Fruit fly / Pomace fly / Vinegar fly,0.33000000000000002,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Chymomyza rufithorax,Fruit fly / Pomace fly / Vinegar fly,0.29999999999999999,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila acutilabella,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila adunca,Fruit fly / Pomace fly / Vinegar fly,0.29999999999999999,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila affinis,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila affinis,Fruit fly / Pomace fly / Vinegar fly,0.22,,NS,NS,NS,623
+Insecta,Diptera,Drosophilidae,Drosophila algonquin,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila algonquin,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,NS,NS,NS,623
+Insecta,Diptera,Drosophilidae,Drosophila ambigua,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila americana,Fruit fly / Pomace fly / Vinegar fly,0.28000000000000003,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila americana,Fruit fly / Pomace fly / Vinegar fly,0.33000000000000002,,BCA,TC,NS,245
+Insecta,Diptera,Drosophilidae,Drosophila ananassae,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila ananassae,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,TN,625
+Insecta,Diptera,Drosophilidae,Drosophila ananassae,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila atripex,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila auraria,Fruit fly / Pomace fly / Vinegar fly,0.25,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila azteca,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila baimaii,Fruit fly / Pomace fly / Vinegar fly,0.28000000000000003,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila barbarae,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila biarmipes,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila biauraria,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila bicornuta,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila bifasciata,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila bipectinata,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila birchii,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila bunnanda,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila busckii,Fruit fly / Pomace fly / Vinegar fly,0.14000000000000001,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila busckii,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila buzzatii,Fruit fly / Pomace fly / Vinegar fly,0.13,,FIA,TS,DMO,746
+Insecta,Diptera,Drosophilidae,Drosophila buzzatii,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,DV,798
+Insecta,Diptera,Drosophilidae,Drosophila capricorni,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila cyrtoloma,Fruit fly / Pomace fly / Vinegar fly,0.40999999999999998,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila diamphidiopoda,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila diplacantha,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila disjuncta,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila elegans,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila emarginata,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila engyochracea,Fruit fly / Pomace fly / Vinegar fly,0.25,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila eohydei,Fruit fly / Pomace fly / Vinegar fly,0.25,,FD,BR,GD,570
+Insecta,Diptera,Drosophilidae,Drosophila equinoxialis,Fruit fly / Pomace fly / Vinegar fly,0.25,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila equinoxialis,Fruit fly / Pomace fly / Vinegar fly,0.31,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila ercepeae,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila erecta,Fruit fly / Pomace fly / Vinegar fly,0.14000000000000001,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila erecta,Fruit fly / Pomace fly / Vinegar fly,0.14999999999999999,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila erecta,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila eugracilis,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila ficusphila,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila funebris,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,BCA,WB,NS,263
+Insecta,Diptera,Drosophilidae,Drosophila funebris,Fruit fly / Pomace fly / Vinegar fly,0.34000000000000002,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila fuyamai,Fruit fly / Pomace fly / Vinegar fly,0.27000000000000002,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila greeni,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila grimshawi,Fruit fly / Pomace fly / Vinegar fly,0.23999999999999999,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila grimshawi,Fruit fly / Pomace fly / Vinegar fly,0.25,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila grimshawi,Fruit fly / Pomace fly / Vinegar fly,0.25,,FD,"HE, S","DM, GD, OM",423
+Insecta,Diptera,Drosophilidae,Drosophila guttifera,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila hawaiiensis,Fruit fly / Pomace fly / Vinegar fly,0.26000000000000001,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila heteroneura,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila hydei,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila hydei,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FD,"HE, S","DM, GD, OM",423
+Insecta,Diptera,Drosophilidae,Drosophila hydei,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,BCA,TC,NS,245
+Insecta,Diptera,Drosophilidae,Drosophila hydei,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila hydei,Fruit fly / Pomace fly / Vinegar fly,0.23999999999999999,,BCA,WB,NS,111
+Insecta,Diptera,Drosophilidae,Drosophila hydei,Fruit fly / Pomace fly / Vinegar fly,0.25,,FD,BR,GD,340
+Insecta,Diptera,Drosophilidae,Drosophila hydei,Fruit fly / Pomace fly / Vinegar fly,0.25,,FD,BR,GD,570
+Insecta,Diptera,Drosophilidae,Drosophila immigrans,Fruit fly / Pomace fly / Vinegar fly,0.31,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila jambulina,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila kanapiae,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila kikkawai,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila koepferae,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,DV,798
+Insecta,Diptera,Drosophilidae,Drosophila lacteicornis,Fruit fly / Pomace fly / Vinegar fly,0.25,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila littoralis,Fruit fly / Pomace fly / Vinegar fly,0.23999999999999999,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila longiseta,Fruit fly / Pomace fly / Vinegar fly,0.38,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila lucipennis,Fruit fly / Pomace fly / Vinegar fly,0.27000000000000002,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila lutescens,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila malerkotliana,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila malerkotliana,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,TN,625
+Insecta,Diptera,Drosophilidae,Drosophila mauritiana,Fruit fly / Pomace fly / Vinegar fly,0.14999999999999999,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila mauritiana,Fruit fly / Pomace fly / Vinegar fly,0.14999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila mayri,Fruit fly / Pomace fly / Vinegar fly,0.26000000000000001,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila melanocephala,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.12,,BCA,WB,NS,263
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,BR,TN,625
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,MGD,SG,NS,261
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,BR,TN,536
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,8,FD,"HE, S",GD,414
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FD,"OV, TS, S","GD, XL",341
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,CS,WB,NS,1
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,"GD, CE",43
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,DV,782
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila melanogaster,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila mercatorum,Fruit fly / Pomace fly / Vinegar fly,0.13,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila mimetica,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila mimica,Fruit fly / Pomace fly / Vinegar fly,0.26000000000000001,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila mimica,Fruit fly / Pomace fly / Vinegar fly,0.26000000000000001,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila miranda,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila miranda,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,NS,NS,NS,623
+Insecta,Diptera,Drosophilidae,Drosophila miranda,Fruit fly / Pomace fly / Vinegar fly,0.31,,BCA,WB,NS,474
+Insecta,Diptera,Drosophilidae,Drosophila mojavensis,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila mojavensis,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila mojavensis,Fruit fly / Pomace fly / Vinegar fly,0.22,,BCA,WB,NS,457
+Insecta,Diptera,Drosophilidae,Drosophila nannoptera,Fruit fly / Pomace fly / Vinegar fly,0.23999999999999999,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila narragansett,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila nasutoides,Fruit fly / Pomace fly / Vinegar fly,0.40000000000000002,,FD,BR,GD,571
+Insecta,Diptera,Drosophilidae,Drosophila nebulosa,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila neocordata,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila neohydei,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FD,BR,GD,570
+Insecta,Diptera,Drosophilidae,Drosophila neoperkinsi,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila nigrens,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila novamexicana,Fruit fly / Pomace fly / Vinegar fly,0.25,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila orena,Fruit fly / Pomace fly / Vinegar fly,0.27000000000000002,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila orena,Fruit fly / Pomace fly / Vinegar fly,0.28000000000000003,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila orosa,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila pallidosa,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila pallidosa,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila pallidosa-like,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila parabipectinata,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila paralutea,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila paulistorum,Fruit fly / Pomace fly / Vinegar fly,0.23999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila pectinifera,Fruit fly / Pomace fly / Vinegar fly,0.29999999999999999,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila persimilis,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila persimilis,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila persimilis,Fruit fly / Pomace fly / Vinegar fly,0.22,,NS,NS,NS,623
+Insecta,Diptera,Drosophilidae,Drosophila phaeopleura,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila prostipennis,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila pseudoananassae,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila pseudoobscura,Fruit fly / Pomace fly / Vinegar fly,0.14000000000000001,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila pseudoobscura,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila pseudoobscura,Fruit fly / Pomace fly / Vinegar fly,0.18-0.21,,NS,NS,NS,623
+Insecta,Diptera,Drosophilidae,Drosophila pseudoobscura,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila pseudotakahashii,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila punjabiensis,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila quadraria,Fruit fly / Pomace fly / Vinegar fly,0.26000000000000001,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila repleta,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila rufa,Fruit fly / Pomace fly / Vinegar fly,0.26000000000000001,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila santomea,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila santomea,Fruit fly / Pomace fly / Vinegar fly,0.17999999999999999,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila sechellia,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila sechellia,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila sechellia,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila seguyi,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila serrata,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila silvarentis,Fruit fly / Pomace fly / Vinegar fly,0.28000000000000003,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila silvestris,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila simulans,Fruit fly / Pomace fly / Vinegar fly,0.12,,BCA,WB,NS,263
+Insecta,Diptera,Drosophilidae,Drosophila simulans,Fruit fly / Pomace fly / Vinegar fly,0.14000000000000001,,FCM,BR,TN,625
+Insecta,Diptera,Drosophilidae,Drosophila simulans,Fruit fly / Pomace fly / Vinegar fly,0.14999999999999999,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila simulans,Fruit fly / Pomace fly / Vinegar fly,0.14999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila simulans,Fruit fly / Pomace fly / Vinegar fly,0.14999999999999999,,FCM,BR,TN,536
+Insecta,Diptera,Drosophilidae,Drosophila simulans,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila subobscura,Fruit fly / Pomace fly / Vinegar fly,0.14999999999999999,,FCM,BR,TN,625
+Insecta,Diptera,Drosophilidae,Drosophila sucinea,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila suzukii,Fruit fly / Pomace fly / Vinegar fly,0.32000000000000001,,FCM,BR,DV,729
+Insecta,Diptera,Drosophilidae,Drosophila suzukii,Fruit fly / Pomace fly / Vinegar fly,0.34999999999999998,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila takahashii,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila tani,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila tanythrix,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Drosophila teissieri,Fruit fly / Pomace fly / Vinegar fly,0.14999999999999999,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila teissieri,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila tolteca,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila triauraria,Fruit fly / Pomace fly / Vinegar fly,0.25,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila tsacasi,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila varians,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila virilis,Fruit fly / Pomace fly / Vinegar fly,0.34000000000000002,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila virilis,Fruit fly / Pomace fly / Vinegar fly,0.34000000000000002,,FD,"HE, S","DM, GD, OM",423
+Insecta,Diptera,Drosophilidae,Drosophila virilis,Fruit fly / Pomace fly / Vinegar fly,0.39000000000000001,,BCA,TC,NS,245
+Insecta,Diptera,Drosophilidae,Drosophila virilis,Fruit fly / Pomace fly / Vinegar fly,0.40999999999999998,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila vulcana,Fruit fly / Pomace fly / Vinegar fly,0.23000000000000001,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Drosophila willistoni,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila willistoni,Fruit fly / Pomace fly / Vinegar fly,0.23999999999999999,,NS,NS,NS,623
+Insecta,Diptera,Drosophilidae,Drosophila yakuba,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,BR,TN,608
+Insecta,Diptera,Drosophilidae,Drosophila yakuba,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Drosophila yakuba,Fruit fly / Pomace fly / Vinegar fly,0.19,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Drosophila yooni,Fruit fly / Pomace fly / Vinegar fly,0.25,,FCM,BR,MS,764
+Insecta,Diptera,Drosophilidae,Hirtodrosophila duncani,Fruit fly / Pomace fly / Vinegar fly,0.34000000000000002,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Hirtodrosophila pictiventris,Fruit fly / Pomace fly / Vinegar fly,0.14999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Samoaia leonensis,Fruit fly / Pomace fly / Vinegar fly,0.27000000000000002,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Scaptodrosophila brooksae,Fruit fly / Pomace fly / Vinegar fly,0.28000000000000003,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Scaptodrosophila latifasciaeformis,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Scaptodrosophila latifasciaeformis,Fruit fly / Pomace fly / Vinegar fly,0.32000000000000001,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Scaptodrosophila lebanonensis,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Scaptodrosophila lebanonensis,Fruit fly / Pomace fly / Vinegar fly,0.26000000000000001,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Scaptodrosophila palmae,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Scaptodrosophila stonei,Fruit fly / Pomace fly / Vinegar fly,0.31,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Scaptomyza flava,Fruit fly / Pomace fly / Vinegar fly,0.29999999999999999,,FCM,BR,DM,707
+Insecta,Diptera,Drosophilidae,Scaptomyza pattersoni,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Scaptomyza sp.,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,WB,MS,764
+Insecta,Diptera,Drosophilidae,Scaptomyza stonei,Fruit fly / Pomace fly / Vinegar fly,0.20999999999999999,,FCM,BR,DM,730
+Insecta,Diptera,Drosophilidae,Zaprionus badyi,Fruit fly / Pomace fly / Vinegar fly,0.26000000000000001,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Zaprionus camarounensis,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Zaprionus davidi,Fruit fly / Pomace fly / Vinegar fly,0.17000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Zaprionus ghesquerei,Fruit fly / Pomace fly / Vinegar fly,0.16,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Zaprionus indianus,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,TN,625
+Insecta,Diptera,Drosophilidae,Zaprionus sepsoides,Fruit fly / Pomace fly / Vinegar fly,0.22,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Zaprionus sepsoides,Fruit fly / Pomace fly / Vinegar fly,0.35999999999999999,,FCM,OV,DM,656
+Insecta,Diptera,Drosophilidae,Zaprionus tuberculatis,Fruit fly / Pomace fly / Vinegar fly,0.20000000000000001,,FCM,BR,"DM, TF",677
+Insecta,Diptera,Drosophilidae,Zaprionus tuberculatus,Fruit fly / Pomace fly / Vinegar fly,0.31,,FCM,OV,DM,656
+Insecta,Diptera,Glossinidae,Glossina fuscipes,Tsetse fly,0.5,,FCM,BR,DV,667
+Insecta,Diptera,Glossinidae,Glossina morsitans morsitans,Tsetse fly,0.54000000000000004,,FCM,BR,DV,667
+Insecta,Diptera,Glossinidae,Glossina pallidipes,Tsetse fly,0.46999999999999997,,FCM,BR,DV,667
+Insecta,Diptera,Glossinidae,Glossina palpalis palpalis,Tsetse fly,0.44,,FCM,BR,DV,667
+Insecta,Diptera,Muscidae,Haematobia irritans,Horn fly,1.21,,FCM,BR,DV,726
+Insecta,Diptera,Muscidae,Musca domestica,House fly,1.02,,FCM,BR,DV,726
+Insecta,Diptera,Muscidae,Musca domestica,Housefly,0.89000000000000001,,UVM,S,NS,53
+Insecta,Diptera,Muscidae,Musca domestica,Housefly,0.92000000000000004,,FCM,BR,DM,709
+Insecta,Diptera,Muscidae,Musca domestica,Housefly,1.04,,NS,NS,NS,395
+Insecta,Diptera,Muscidae,Stomoxys calcitrans,Stable fly,1.1599999999999999,,FCM,BR,DV,726
+Insecta,Diptera,Muscidae,Synthesiomyia nudiseta,Fly,0.62,,FCM,BR,DV,726
+Insecta,Diptera,Phoridae,Megaselia abdita,Humpbacked fly,0.56999999999999995,,FCM,BR,DV,726
+Insecta,Diptera,Phoridae,Megaselia scalaris,Humpbacked fly,0.47999999999999998,,FCM,BR,DV,726
+Insecta,Diptera,Phoridae,Pseudacteon curvatus,Fly,0.68999999999999995,,FCM,BR,DM,725
+Insecta,Diptera,Phoridae,Pseudacteon obtusus,Fly,0.64000000000000001,,FCM,BR,DM,725
+Insecta,Diptera,Phoridae,Pseudacteon tricuspis,Fly,0.76000000000000001,,FCM,BR,DM,725
+Insecta,Diptera,Psychodidae,Clogmia albipunctata,Filter fly,0.32000000000000001,,FCM,BR,DM,737
+Insecta,Diptera,Psychodidae,Clogmia albipunctata,Fly,0.32000000000000001,,FCM,BR,DM,696
+Insecta,Diptera,Psychodidae,Psychoda cinerea,Fly,0.10000000000000001,,FCM,BR,DM,696
+Insecta,Diptera,Psychodidae,Psychoda cinerea,Moth fly,0.10000000000000001,,FCM,BR,DM,737
+Insecta,Diptera,Psychodidae,Telmatoscopus meridionalis,Moth fly,0.23999999999999999,12,FD,TS,MD,239
+Insecta,Diptera,Sarcophagidae,Sarcophaga bullata,Fleshfly,0.66000000000000003,,BCA,WB,NS,263
+Insecta,Diptera,Sarcophagidae,Sarcophaga bullata,Fleshfly,0.76000000000000001,,FD,TS,GD,450
+Insecta,Diptera,Scatopsidae,Coboldia fuscipes,Fly,0.10000000000000001,,FCM,BR,DM,696
+Insecta,Diptera,Scatopsidae,Coboldia fuscipes,Minute black scavenger fly,0.10000000000000001,,FCM,BR,DM,737
+Insecta,Diptera,Sciaridae,Bradysia hygida,Fly,0.31,,FIA,BR,GD,621
+Insecta,Diptera,Sciaridae,Rhynchosciara americana,Fly,0.37,,FIA,BR,GD,621
+Insecta,Diptera,Sciaridae,Sciara coprophila,Fungus fly,0.28999999999999998,,FD,"HE, S",GD,630
+Insecta,Diptera,Sciaridae,Sciara ocellaris,Fungus fly,0.26000000000000001,,FD,"HE, S",GD,630
+Insecta,Diptera,Sciaridae,Trichosia pubescens,Fly,1.03,,FIA,BR,GD,621
+Insecta,Diptera,Sepsidae,Allosepsis sp. 1,Black scavenger fly,0.48999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Allosepsis sp. 2,Black scavenger fly,0.52000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Allosepsis sp. 3,Black scavenger fly,0.48999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Allosepsis sp. 4,Black scavenger fly,0.33000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Allosepsis sp. 5,Black scavenger fly,0.42999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Allosepsis sp. 6,Black scavenger fly,0.51000000000000001,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Archisepsis armata,Black scavenger fly,0.34000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Archisepsis escalcarata,Black scavenger fly,0.33000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Decachaetophora aeneipes,Black scavenger fly,0.28000000000000003,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Dicranosepsis sp. 1,Black scavenger fly,0.23999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Dicranosepsis sp. 2,Black scavenger fly,0.27000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Meropliosepsis sexsetosa,Black scavenger fly,0.63,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Meroplius alberquerquei,Black scavenger fly,0.16,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Meroplius sauteri,Black scavenger fly,0.17999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Microsepsis armillata,Black scavenger fly,0.19,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Microsepsis furcata,Black scavenger fly,0.19,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Microsepsis mitis,Black scavenger fly,0.19,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Nemopoda nitidula,Black scavenger fly,0.20000000000000001,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Orygma luctuosum,Black scavenger fly,0.46000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Paratoxopoda similis,Black scavenger fly,0.22,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Perochaeta dikowi,Black scavenger fly,0.29999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis biflexuosa,Black scavenger fly,0.27000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis cynipsea,Black scavenger fly,0.20999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis dissimilis,Black scavenger fly,0.22,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis flavimana,Black scavenger fly,0.27000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis fulgens,Black scavenger fly,0.26000000000000001,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis lateralis,Black scavenger fly,0.28999999999999998,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis latiforceps,Black scavenger fly,0.27000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis neocynipsea,Black scavenger fly,0.22,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis nitens,Black scavenger fly,0.32000000000000001,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis niveipennis,Black scavenger fly,0.17999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis orthocnemis,Black scavenger fly,0.25,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis punctum,Black scavenger fly,0.27000000000000002,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis secunda,Black scavenger fly,0.26000000000000001,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Sepsis thoracica,Black scavenger fly,0.23999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Themira biloba,Black scavenger fly,0.20000000000000001,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Themira lucida,Black scavenger fly,0.14999999999999999,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Themira superba,Black scavenger fly,0.19,,FCM,BR,GD,810
+Insecta,Diptera,Sepsidae,Thermia putris,Black scavenger fly,0.17000000000000001,,FCM,BR,GD,810
+Insecta,Diptera,Simuliidae,Prosimulium multidentatum,Blackfly,0.19,,BCA,WB,NS,471
+Insecta,Diptera,Stratiomyidae,Hermetia illucens,Black soldier fly,1.1799999999999999,,FCM,BR,DV,726
+Insecta,Diptera,Syrphidae,Episyrphus balteatus,Marmalade hoverfly,0.54000000000000004,,FCM,BR,DV,725
+Insecta,Diptera,Tephritidae,Rhagoletis pomonella,Apple maggot fly,0.96999999999999997,,FCM,BR,DM,725
+Insecta,Embiidina,Oligotomidae,Oligotoma saundersii,Webspinner,2.6600000000000001,,FCM,BR,DV,725
+Insecta,Ephemeroptera,Ephemeridae,Unidentified sp.,Mayfly,0.68999999999999995,,FCM,BR,DV,725
+Insecta,Hemiptera,Adelgidae,Adelges cooleyii,Aphid,0.38,22,FD,EP,V,128
+Insecta,Hemiptera,Adelgidae,Adelges sp.,Aphid,0.39000000000000001,,FD,EP,V,128
+Insecta,Hemiptera,Adelgidae,Pineus similis,Aphid,0.37,22,FD,EP,V,128
+Insecta,Hemiptera,Adelgidae,Pineus sp.,Aphid,0.37,,FD,EP,V,128
+Insecta,Hemiptera,Aleyrodidae,Bemisia tabaci,Silverleaf whitefly,0.68000000000000005,,FCM,WB,DM,795
+Insecta,Hemiptera,Aleyrodidae,Bemisia tabaci,Silverleaf whitefly,0.70999999999999996,,FCM,WB,GD,830
+Insecta,Hemiptera,Aleyrodidae,Bemisia tabaci,Silverleaf whitefly,1.04,,FCM,WB,GD,899
+Insecta,Hemiptera,Aphalaridae,Pachypsylla venusta,Hackleberry petiole gall psyllid,0.73999999999999999,,FCM,BR,DM,757
+Insecta,Hemiptera,Aphididae,Acyrthosiphon pisum,Aphid,0.31,8,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Amphorophora agathonica,Aphid,0.39000000000000001,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Aphis craccivora,Cowpea aphid,0.41999999999999998,,FCM,BR,DM,725
+Insecta,Hemiptera,Aphididae,Aphis fabae,Aphid,0.60999999999999999,8,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Aphis nerii,Aphid,0.51000000000000001,8,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Aphis pomi,Aphid,0.48999999999999999,8,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Aphis sp.,Aphid,0.67000000000000004,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Chaitophorus populicola,Aphid,0.47999999999999998,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Chaitophorus sp.,Aphid,0.59999999999999998,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Cinara strobi,Aphid,0.70999999999999996,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Diuraphis noxia,Russian wheat aphid,0.39000000000000001,,FCM,WB,DM,760
+Insecta,Hemiptera,Aphididae,Eoessigia longicauda,Aphid,0.17999999999999999,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Eriosoma americanum,Aphid,0.33000000000000002,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Gypsoaphis oestlundi,Aphid,0.89000000000000001,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Illinoia sp.,Aphid,0.28999999999999998,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Macrosiphonella sp.,Aphid,0.62,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Macrosiphum californicum,Aphid,0.51000000000000001,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Macrosiphum euphorbiae,Aphid,0.40000000000000002,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Macrosiphum pseudocoryli,Aphid,0.66000000000000003,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Macrosiphum rosae,Aphid,0.52000000000000002,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Mogoura viciae,Aphid,0.47999999999999998,,FCM,OV,GD,307
+Insecta,Hemiptera,Aphididae,Myzus nicotinae,Aphid,0.33000000000000002,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Myzus persicae,Aphid,0.32000000000000001,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Nasonovia lactucae,Aphid,0.69999999999999996,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Pemphigus sp.,Aphid,0.41999999999999998,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Pterocallis alnifoliae,Aphid,0.56000000000000005,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Rhopalosiphon cerasifoliae,Aphid,0.59999999999999998,8,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Rhopalosiphon padi,Aphid,0.65000000000000002,8,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Rhopalosiphon sp.,Aphid,0.72999999999999998,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Schizaphis graminum,Aphid,0.40000000000000002,,BCA,WB,NS,287
+Insecta,Hemiptera,Aphididae,Schizaphis graminum,Aphid,0.53000000000000003,,FCM,WB,GD,495
+Insecta,Hemiptera,Aphididae,Schizaphis graminum,Aphid,0.56000000000000005,8,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Tamalia coweni,Aphid,0.63,6,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Uroleucon sp.,Aphid,0.68000000000000005,,FD,EP,V,128
+Insecta,Hemiptera,Aphididae,Uroleucon sp.,Aphid,0.73999999999999999,,FD,EP,V,128
+Insecta,Hemiptera,Aphrophoridae,Philaenus maghresignus,Spittlebug,4.4500000000000002,,FCM,BR,SL,759
+Insecta,Hemiptera,Aphrophoridae,Philaenus spumarius,Meadow spittlebug,2.6400000000000001,,FCM,BR,SL,759
+Insecta,Hemiptera,Belostomatidae,Belostoma dentatum,Water bug,1.9299999999999999,,NS,NS,NS,395
+Insecta,Hemiptera,Cicadellidae,Amrasca biguttula biguttula,Cotton jassid,0.22,,FCM,BR,GD,588
+Insecta,Hemiptera,Cicadidae,Neocicada hieroglyphica,Hieroglyphic cicada,5.6500000000000004,,FCM,BR,GD,725
+Insecta,Hemiptera,Cicadidae,Neotibicen resh,Western dusk singing cicada,5.6200000000000001,,FCM,BR,PA,725
+Insecta,Hemiptera,Cicadidae,Tibicen lyricen,Lyric cicada,7.0099999999999998,,FCM,BR,GD,725
+Insecta,Hemiptera,Delphacidae,Laodelphax striatellus,Planthopper,0.59999999999999998,,FCM,WB,"DM, GD",642
+Insecta,Hemiptera,Delphacidae,Laodelphax striatellus,Small brown planthopper,0.52000000000000002,,FCM,BR,DM,791
+Insecta,Hemiptera,Delphacidae,Sogatella furcifera,White-backed planthopper,0.70999999999999996,,FCM,BR,DM,791
+Insecta,Hemiptera,Lygaeidae,Oncopeltus fasciatus,Milkweed bug,4.65-6.15,,BCA,WB,NS,262
+Insecta,Hemiptera,Miridae,Apolygus lucorum,Plant bug,0.90000000000000002,,FCM,BR,DM,791
+Insecta,Hemiptera,Miridae,Cyrtorhinus lividipennis,Plant bug,0.35999999999999999,,FCM,BR,DM,791
+Insecta,Hemiptera,Miridae,Pseudatomoscelis seriatus,Cotton fleahopper,0.58999999999999997,,FCM,BR,DV,725
+Insecta,Hemiptera,Miridae,Tytthus chinensis,Plant bug,0.40999999999999998,,FCM,BR,DM,791
+Insecta,Hemiptera,Pentatomidae,Brochymena cariosa,Rough stink bug,1.26,,FCM,BR,DM,725
+Insecta,Hemiptera,Phyrrhocoridae,Pyrrhocoris apterus,Red firebug,1.22,,FD,S,MD,53
+Insecta,Hemiptera,Reduviidae,Dipetalogaster maximus,Kissing bug,1.29,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Eratyrus cuspidatus,Kissing bug,1.26,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Panstrongylus geniculatus,Kissing bug,1.4199999999999999,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Panstrongylus rufotuberculatus,Kissing bug,1.4399999999999999,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Rhodnius colombiensis,Kissing bug,0.57999999999999996,,FCM,TS,HS,765
+Insecta,Hemiptera,Reduviidae,Rhodnius ecuadoriensis,Kissing bug,0.71999999999999997,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Rhodnius pallescens,Kissing bug,0.72999999999999998,,FCM,TS,HS,819
+Insecta,Hemiptera,Reduviidae,Rhodnius prolixus,Kissing bug,0.26000000000000001,,NS,NS,NS,395
+Insecta,Hemiptera,Reduviidae,Rhodnius prolixus,Kissing bug,0.58999999999999997,,FIA,S,DM,575
+Insecta,Hemiptera,Reduviidae,Rhodnius prolixus,Kissing bug,0.75,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Triatoma barberi ,Kissing bug,1.23,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Triatoma brasiliensis,Kissing bug,1.0900000000000001,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Triatoma delpontei,Assassin bug,2.8999999999999999,44,FCM,TS,HS,618
+Insecta,Hemiptera,Reduviidae,Triatoma delpontei,Kissing bug,1.8,,FD,NS,AC,762
+Insecta,Hemiptera,Reduviidae,Triatoma dimidiata,"Kissing bug (""cytotype 1"")",1.0700000000000001,23-24,FCM,TS,HS,624
+Insecta,Hemiptera,Reduviidae,Triatoma dimidiata,"Kissing bug (""cytotype 2"")",0.92000000000000004,23-24,FCM,TS,HS,624
+Insecta,Hemiptera,Reduviidae,Triatoma dimidiata,"Kissing bug (""cytotype 3"")",0.97999999999999998,23-24,FCM,TS,HS,624
+Insecta,Hemiptera,Reduviidae,Triatoma infestans,Kissing bug,1.03,,FD,NS,AC,762
+Insecta,Hemiptera,Reduviidae,Triatoma infestans,Kissing bug,1.7,44,FCM,TS,HS,382
+Insecta,Hemiptera,Reduviidae,Triatoma infestans,"Kissing bug (""Andean population"")",1.98,44,FCM,TS,HS,618
+Insecta,Hemiptera,Reduviidae,Triatoma infestans,"Kissing bug (""dark morph"")",1.4399999999999999,44,FCM,TS,HS,618
+Insecta,Hemiptera,Reduviidae,Triatoma infestans,"Kissing bug (""non-Andean population"")",1.5,44,FCM,TS,HS,618
+Insecta,Hemiptera,Reduviidae,Triatoma longipennis,Kissing bug,0.91000000000000003,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Triatoma maculata,Kissing bug,1.0900000000000001,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Triatoma melanosoma,Assassin bug,1.53,44,FCM,TS,HS,618
+Insecta,Hemiptera,Reduviidae,Triatoma nitida,Kissing bug,1.3500000000000001,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Triatoma platensis,Assassin bug,1.3300000000000001,44,FCM,TS,HS,618
+Insecta,Hemiptera,Reduviidae,Triatoma platensis,Kissing bug,0.87,,FD,NS,AC,762
+Insecta,Hemiptera,Reduviidae,Triatoma pseudomaculata,Kissing bug,1.1299999999999999,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Triatoma rubrovaria,Assassin bug,1.1699999999999999,44,FCM,TS,HS,618
+Insecta,Hemiptera,Reduviidae,Triatoma rubrovaria,Kissing bug,0.54000000000000004,,FD,NS,AC,762
+Insecta,Hemiptera,Reduviidae,Triatoma ryckmani,Kissing bug,1.1000000000000001,,FCM,TS,HS,734
+Insecta,Hemiptera,Reduviidae,Triatoma sordida,Assassin bug,1.1200000000000001,44,FCM,TS,HS,618
+Insecta,Hymenoptera,Andrenidae,Andrena dunningi,Dunning's Andrena,0.5,,FCM,BR,DM,705
+Insecta,Hymenoptera,Aphelinidae,Aphelinus abdominalis,Wasp,0.65000000000000002,,FCM,BR,DM,705
+Insecta,Hymenoptera,Aphelinidae,Aphelinus atriplicis,Aphid parasitoid wasp,0.35999999999999999,,FCM,BR,DM,756
+Insecta,Hymenoptera,Aphelinidae,Aphelinus certus,Aphid parasitoid wasp,0.37,,FCM,BR,DM,756
+Insecta,Hymenoptera,Aphelinidae,Aphelinus coreae,Aphid parasitoid wasp,0.45000000000000001,,FCM,BR,DM,756
+Insecta,Hymenoptera,Aphelinidae,Aphelinus daucicola,Aphid parasitoid wasp,0.34000000000000002,,FCM,BR,DM,756
+Insecta,Hymenoptera,Aphelinidae,Aphelinus glycinis,Aphid parasitoid wasp,0.44,,FCM,BR,DM,756
+Insecta,Hymenoptera,Aphelinidae,Aphelinus hordei,Aphid parasitoid wasp,0.40000000000000002,,FCM,BR,DM,756
+Insecta,Hymenoptera,Aphelinidae,Aphelinus kurdjumovi,Aphid parasitoid wasp,0.35999999999999999,,FCM,BR,DM,756
+Insecta,Hymenoptera,Aphelinidae,Aphelinus rhamni,Aphid parasitoid wasp,0.5,,FCM,BR,DM,756
+Insecta,Hymenoptera,Aphelinidae,Aphelinus varipes,Aphid parasitoid wasp,0.34000000000000002,,FCM,BR,DM,756
+Insecta,Hymenoptera,Aphelinidae,Encarsia formosa,Wasp,0.41999999999999998,,FCM,BR,DM,705
+Insecta,Hymenoptera,Aphelinidae,Encarsia sophia,Wasp,0.38,,FCM,BR,DM,791
+Insecta,Hymenoptera,Aphelinidae,Eretmocerus eremicus,Wasp,0.55000000000000004,,FCM,BR,DM,705
+Insecta,Hymenoptera,Aphelinidae,Eretmocerus mundus,Wasp,0.75,,FCM,BR,DM,705
+Insecta,Hymenoptera,Apidae,Apis cerana,Indian honey bee,0.19,,BCA,WB,NS,238
+Insecta,Hymenoptera,Apidae,Apis mellifera,Honey bee,0.17000000000000001,,FD,"HE, S","DM, GD, OM",423
+Insecta,Hymenoptera,Apidae,Apis mellifera,Honey bee,0.19,,BCA,WB,NS,238
+Insecta,Hymenoptera,Apidae,Apis mellifera,Honey bee,0.19,,NS,NS,NS,395
+Insecta,Hymenoptera,Apidae,Apis mellifera,Honey bee,0.23999999999999999,,FCM,BR,DM,705
+Insecta,Hymenoptera,Apidae,Apis mellifera,Honey bee,0.27000000000000002,,FCM,NS,NS,692
+Insecta,Hymenoptera,Apidae,Apis mellifera,Honey bee,0.34999999999999998,,BCA,WB,NS,97
+Insecta,Hymenoptera,Apidae,Bombus bimaculatus,Two-spotted bumblebee,0.34000000000000002,,FCM,BR,DM,705
+Insecta,Hymenoptera,Apidae,Bombus impatiens,Common Eastern bumblebee,0.46999999999999997,,FCM,BR,DM,705
+Insecta,Hymenoptera,Apidae,Bombus impatiens,Common eastern bumblebee,0.52000000000000002,,FCM,BR,DM,725
+Insecta,Hymenoptera,Apidae,Bombus occidentalis,Western bumblebee,0.46000000000000002,,FCM,BR,DM,725
+Insecta,Hymenoptera,Apidae,Bombus terrestris,Bumblebee,0.41999999999999998,,FCM,MC,AM,594
+Insecta,Hymenoptera,Apidae,Bombus terrestris,Bumblebee,0.64000000000000001,36,FCM,MC,GD,686
+Insecta,Hymenoptera,Apidae,Celetrigona longicornis,Stingless bee,0.47999999999999998,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Cephalotrigona sp.,Stingless bee,0.55000000000000004,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Ceratina calcarata,Spurred Ceratina,0.68000000000000005,,FCM,BR,DM,705
+Insecta,Hymenoptera,Apidae,Ceratina dupla dupla,Doubled Ceratina,0.58999999999999997,,FCM,BR,DM,705
+Insecta,Hymenoptera,Apidae,Friesella schrottkyi,Stingless bee,0.42999999999999999,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Frieseomelitta sp.,Stingless bee,0.44,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Frieseomelitta varia,Stingless bee,0.46999999999999997,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Lestrimellita sp.,Stingless bee,0.46000000000000002,,FCM,BR,SX,818
+Insecta,Hymenoptera,Apidae,Leurotrigona muelleri,Stingless bee,0.32000000000000001,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Melipoma asilvai,Stingless bee,0.28999999999999998,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma bicolor,Stingless bee,0.28000000000000003,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma capixaba,Stingless bee,1.3799999999999999,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma compressipes,Stingless bee,0.78000000000000003,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma crinita,Stingless bee,0.72999999999999998,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma eburnea,Stingless bee,1.1100000000000001,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma fuscopilosa,Stingless bee,1.1000000000000001,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma grandis,Stingless bee,0.94999999999999996,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma mandacaia,Stingless bee,0.34999999999999998,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma marginata,Stingless bee,0.28000000000000003,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma mondury,Stingless bee,0.94999999999999996,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma quadrifasciata,Stingless bee,0.27000000000000002,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma quinquefasciata,Stingless bee,0.69999999999999996,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma rufiventris,Stingless bee,0.93000000000000005,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma scutellaris,Stingless bee,1.0800000000000001,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma seminigra,Stingless bee,0.84999999999999998,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipoma subnitida,Stingless bee,0.27000000000000002,,FCM,BR,SX,749
+Insecta,Hymenoptera,Apidae,Melipona asilvaib,Stingless bee,0.28000000000000003,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Melipona bicolor,Stingless bee,0.26000000000000001,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Melipona fasciculata,Stingless bee,0.81999999999999995,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Melipona flavolineata,Stingless bee,0.97999999999999998,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Melipona mandacaia,Stingless bee,0.34000000000000002,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Melipona mondury,Stingless bee,0.94999999999999996,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Melipona mondury,Stingless bee,0.94999999999999996,,FCM,BR,SX,790
+Insecta,Hymenoptera,Apidae,Melipona quadrifasciata,Stingless bee,0.26000000000000001,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Melipona quinquefasciata,Stingless bee,0.68999999999999995,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Melipona rufiventris,Stingless bee,0.93000000000000005,,FCM,BR,SX,790
+Insecta,Hymenoptera,Apidae,Melissodes desponsa,Thistle long-horned bee,0.52000000000000002,,FCM,BR,DM,705
+Insecta,Hymenoptera,Apidae,Melissodes illata,Long-horned bee,0.37,,FCM,BR,DM,705
+Insecta,Hymenoptera,Apidae,Nanotrigona sp.,Stingless bee,0.45000000000000001,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Nanotrigona testaceicornis,Stingless bee,0.40999999999999998,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Paratrigona subnuda,Stingless bee,0.26000000000000001,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Partamona chapadicola,Stingless bee,0.63,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Partamona helleri,Stingless bee,0.55000000000000004,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Partamona rustica,Stingless bee,0.57999999999999996,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Plebeia droryana,Stingless bee,0.5,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Plebeia lucii,Stingless bee,0.42999999999999999,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Plebeia sp.,Stingless bee,0.44,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Scaptotrigona bipunctata,Stingless bee,0.41999999999999998,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Scaptotrigona depilis,Stingless bee,0.40000000000000002,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Scaptotrigona tubiba,Stingless bee,0.45000000000000001,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Scaptotrigona xantotricha,Stingless bee,0.42999999999999999,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Scaptotrigona xantotricha,Stingless bee,0.42999999999999999,,FCM,BR,DM,790
+Insecta,Hymenoptera,Apidae,Scaura latitarsis,Stingless bee,0.44,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Schwarziana sp.,Stingless bee,0.65000000000000002,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Tetragonisca angustula,Stingless bee,0.90000000000000002,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Trigona fulviventris,Stingless bee,0.68999999999999995,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Trigona pallens,Stingless bee,0.81000000000000005,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Trigona spinipes,Stingless bee,0.42999999999999999,,FCM,BR,SX,728
+Insecta,Hymenoptera,Apidae,Xylocopa virginica krombeini,Eastern carpenter bee,0.68999999999999995,,FIA,HE,TM,705
+Insecta,Hymenoptera,Braconidae,Aphidius colemani,Wasp,0.10000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Braconidae,Aphidius ervi,Wasp,0.11,,FIA,S,DM,705
+Insecta,Hymenoptera,Braconidae,Aphidius ervi,Wasp,0.14000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Braconidae,Aphidius ervi,Wasp,0.16,,FCM,BR,DV,725
+Insecta,Hymenoptera,Braconidae,Cotesia flavipes,Wasp,0.17999999999999999,,FCM,BR,DV,725
+Insecta,Hymenoptera,Braconidae,Dacnusa sibirica,Wasp,0.16,,FCM,BR,DM,705
+Insecta,Hymenoptera,Braconidae,Habrobracon juglandis,Parasitic wasp,0.16,,FD,"HE, S","DM, GD, XL","417, 420"
+Insecta,Hymenoptera,Braconidae,Habrobracon serinopae,Parasitic wasp,0.16,,FD,"HE, S","DM, GD, OM","420, 423"
+Insecta,Hymenoptera,Braconidae,Macrocentrus cingulum,Wasp,0.16,,FCM,BR,DM,791
+Insecta,Hymenoptera,Braconidae,Macrocentrus grandii,Wasp,0.11,,FIA,S,DM,705
+Insecta,Hymenoptera,Braconidae,Peristenus digoneutis,Wasp,0.13,,FIA,S,DM,705
+Insecta,Hymenoptera,Braconidae,Peristenus stygicus,Wasp,0.10000000000000001,,FIA,S,DM,705
+Insecta,Hymenoptera,Braconidae,Praon sp.,Wasp,0.13,,FIA,S,DM,705
+Insecta,Hymenoptera,Cephidae,Cephus cinctus,Wheat stem sawfly,0.20999999999999999,,FCM,BR,DV,725
+Insecta,Hymenoptera,Colletidae,Hylaeus affinis,Yellow-masked bee,0.64000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Crabronidae,Ectemnius continuus,Square-headed wasp,0.38,,FCM,BR,DM,705
+Insecta,Hymenoptera,Crabronidae,Gorytes atricornis,Sand wasp,0.47999999999999998,,FCM,BR,DM,705
+Insecta,Hymenoptera,Crabronidae,Microbembex monodonta,Sand wasp,0.66000000000000003,,FIA,HE,TM,705
+Insecta,Hymenoptera,Crabronidae,Trypoxylon politum,Organ pipe mud dauber,0.34999999999999998,,FIA,HE,TM,705
+Insecta,Hymenoptera,Encyrtidae,Copidosoma floridanum,Wasp,0.56999999999999995,,FIA,S,DM,705
+Insecta,Hymenoptera,Encyrtidae,Leptomastix dactylopii,Wasp,0.56000000000000005,,FCM,BR,DM,705
+Insecta,Hymenoptera,Eulophidae,Diglyphus isaea,Wasp,0.23000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Figitidae,Ganaspis xanthopoda,Wasp,0.98999999999999999,,FCM,BR,DM,727
+Insecta,Hymenoptera,Figitidae,Leptopilina boulardi,Wasp,0.37,,FCM,BR,DM,727
+Insecta,Hymenoptera,Figitidae,Leptopilina heterotoma,Wasp,0.46999999999999997,,FCM,BR,DM,727
+Insecta,Hymenoptera,Figitidae,Leptopilina victoriae,Wasp,0.53000000000000003,,FCM,BR,DM,727
+Insecta,Hymenoptera,Formicidae,Amblyopone pallipes,Ant,0.34000000000000002,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Amblyopone pallipes,Ant,0.37,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Aphaenogaster (rudis-texana group N16),Ant,0.42999999999999999,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Aphaenogaster (rudis-texana group N17),Ant,0.46000000000000002,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Aphaenogaster (rudis-texana group N22b),Ant,0.44,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Aphaenogaster fulva,Ant,0.41999999999999998,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Aphaenogaster treatae,Ant,0.5,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Apterostigma dentigerum,Ant,0.65000000000000002,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Atta cephalotes,Ant,0.31,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Atta columbica,Ant,0.31,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Atta texana,Texas leaf-cutting ant,0.27000000000000002,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Camponotus castaneus,Ant,0.31,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Camponotus crassus,Carpenter ant,0.28999999999999998,,FCM,BR,SX,801
+Insecta,Hymenoptera,Formicidae,Camponotus floridanus,Florida carpenter ant,0.23000000000000001,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Camponotus pennsylvanicus,Ant,0.33000000000000002,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Camponotus renggeri,Carpenter ant,0.28999999999999998,,FCM,BR,SX,801
+Insecta,Hymenoptera,Formicidae,Camponotus rufipes,Carpenter ant,0.28999999999999998,,FCM,BR,SX,801
+Insecta,Hymenoptera,Formicidae,Cerapachys edentata,Ant,0.22,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Crematogaster hespera,Ant,0.28000000000000003,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Dinoponera australis,Ant,0.56999999999999995,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Dolichoderus mariae,Ant,0.17999999999999999,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Dolichoderus taschenbergi,Ant,0.23000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Dormyrmex bicolor,Ant,0.25,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Dorymyrmex bureni,Ant,0.17999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Eciton burchelli,Ant,0.27000000000000002,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Ectatomma tuberculatum,Ant,0.70999999999999996,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Eurhopalothrix procera,Ant,0.39000000000000001,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Forelius pruinosus,Ant,0.22,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Formica pallidifulva,Ant,0.39000000000000001,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Labidus coecus,Ant,0.37,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Lasius (Acanthomyops) latipes,Ant,0.27000000000000002,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Lasius alienus,Ant,0.31,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Lasius minutus,Ant,0.23000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Linepithema humile,Ant,0.26000000000000001,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Liometopum occidentale,Ant,0.28999999999999998,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Messor andrei,Ant,0.26000000000000001,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Monomorium viride,Ant,0.5,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Mycetophylax conformis,Fungus-growing ant,0.32000000000000001,,FCM,BR,SX,794
+Insecta,Hymenoptera,Formicidae,Mycetophylax morschi,Fungus-growing ant,0.32000000000000001,,FCM,BR,SX,794
+Insecta,Hymenoptera,Formicidae,Mycetophylax simplex,Fungus-growing ant,0.39000000000000001,,FCM,BR,SX,794
+Insecta,Hymenoptera,Formicidae,Myrmecia varians,Ant,0.28000000000000003,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Myrmecina americana A,Ant,0.26000000000000001,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Myrmecina americana B,Ant,0.31,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Odontomachus bauri,Ant,0.48999999999999999,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Odontomachus brunneus,Ant,0.33000000000000002,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Odontomachus brunneus,Ant,0.44,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Odontomachus cephalotes,Ant,0.42999999999999999,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Odontomachus chelifer,Ant,0.54000000000000004,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Odontomachus clarus,Ant,0.41999999999999998,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Odontomachus haematodus,Ant,0.51000000000000001,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Paratrechina longicornis,Longhorn crazy ant,0.17999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Pheidole dentata,Big-headed ant,0.23999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Pheidole floridana,Big-headed ant,0.20999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Pheidole hyatti,Ant,0.33000000000000002,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Pogonomyrmex badius,Ant,0.27000000000000002,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Pogonomyrmex californicus,Ant,0.25,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Pogonomyrmex coarctatus,Ant,0.28999999999999998,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Ponera pennsylvanica,Ant,0.55000000000000004,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Ponera pennsylvanica,Ant,0.59999999999999998,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Prenolepis imparis,Ant,0.29999999999999999,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Pseudomyrmex ejectus,Ant,0.28999999999999998,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Pseudomyrmex gracilis,Ant,0.34999999999999998,,FIA,"BR, HE","DM, TM",705
+Insecta,Hymenoptera,Formicidae,Pseudomyrmex gracilis,Ant,0.40000000000000002,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Pyramica rostrata,Ant,0.28000000000000003,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Sericomyrmex amabilis,Ant,0.45000000000000001,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Solenopsis invicta,Red fire ant,0.62,,BCA,BR,NS,272
+Insecta,Hymenoptera,Formicidae,Solenopsis invicta,Red fire ant,0.77000000000000002,,FCM,BR,DM,237
+Insecta,Hymenoptera,Formicidae,Solenopsis invicta,Red imported fire ant,0.46999999999999997,,FIA,HE,TM,705
+Insecta,Hymenoptera,Formicidae,Solenopsis molesta,Thief ant,0.38,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Solenopsis xyloni,Ant,0.47999999999999998,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Tapinoma sessile,Odorous house ant,0.37,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Tapinoma sessile A,Ant,0.38,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Tapinoma sessile B,Ant,0.60999999999999999,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Temnothorax ambiguus,Ant,0.31,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Temnothorax texanus,Ant,0.32000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Tetramorium caespitum,Ant,0.26000000000000001,,FCM,BR,DM,661
+Insecta,Hymenoptera,Formicidae,Tetramorium caespitum,Pavement ant,0.27000000000000002,,FCM,BR,DM,705
+Insecta,Hymenoptera,Formicidae,Trachymyrmex septentrionalis,Northern fungus-growing ant,0.25,,FIA,HE,TM,705
+Insecta,Hymenoptera,Halictidae,Agapostemon splendens,Metallic green bee,0.66000000000000003,,FIA,HE,TM,705
+Insecta,Hymenoptera,Halictidae,Augochloropsis metallica,Green sweat bee,0.90000000000000002,,FCM,BR,DM,705
+Insecta,Hymenoptera,Halictidae,Halictus ligatus,Sweat bee,0.48999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Halictidae,Halictus ligatus,Sweat bee,0.59999999999999998,,FCM,BR,DM,705
+Insecta,Hymenoptera,Halictidae,Halictus poeyi,Sweat bee,0.40000000000000002,,FIA,HE,TM,705
+Insecta,Hymenoptera,Ichneumonidae,Neotheronia bicincta,Wasp,0.27000000000000002,,FIA,HE,TM,705
+Insecta,Hymenoptera,Megachilidae,Anthidiellum notatum rufimaculatum,Leaf-cutter bee,0.47999999999999998,,FIA,HE,TM,705
+Insecta,Hymenoptera,Megachilidae,Megachile albitarsis,Leaf-cutter bee,0.80000000000000004,,FIA,HE,TM,705
+Insecta,Hymenoptera,Megachilidae,Megachile rotundata,Alfalfa leaf-cutter bee,0.82999999999999996,,FCM,BR,DM,705
+Insecta,Hymenoptera,Megachilidae,Megachile rotundata,Leaf-cutting bee,0.29999999999999999,,BCA,WB,NS,238
+Insecta,Hymenoptera,Mutillidae,Dasymutilla archboldi,Velvet ant,0.46000000000000002,,FIA,HE,TM,705
+Insecta,Hymenoptera,Mutillidae,Dasymutilla occidentalis,Cow killer,0.67000000000000004,,FCM,BR,DV,725
+Insecta,Hymenoptera,Mutillidae,Dasymutilla occidentalis,Red velvet ant,0.46000000000000002,,FIA,HE,TM,705
+Insecta,Hymenoptera,Mutillidae,Dasymutilla pyrrhus,Velvet ant,0.48999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Mutillidae,Sphaeropthalma pensylvanica,Velvet ant,0.54000000000000004,,FCM,BR,DV,725
+Insecta,Hymenoptera,Pteromalidae,Catolaccus grandis,Parasitic wasp,0.46999999999999997,,FCM,BR,GD,684
+Insecta,Hymenoptera,Pteromalidae,Nasonia vitripennis,Wasp,0.34000000000000002,,FD,"HE, S","DM, GD, XL","417, 420"
+Insecta,Hymenoptera,Scoliidae,Campsomeris plumipes fossulana,Wasp,0.20999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Sphecidae,Ammophila pictipennis,Thread-waisted wasp,0.40999999999999998,,FIA,HE,TM,705
+Insecta,Hymenoptera,Sphecidae,Chalybion californicum,Thread-waisted wasp,0.54000000000000004,,FCM,BR,DM,705
+Insecta,Hymenoptera,Sphecidae,Larra bicolor,Thread-waisted wasp,0.19,,FCM,BR,DM,705
+Insecta,Hymenoptera,Sphecidae,Miscophus slossonae,Thread-waisted wasp,0.19,,FIA,HE,TM,705
+Insecta,Hymenoptera,Sphecidae,Sceliphron caementarium,Thread-waisted wasp,0.81000000000000005,,FIA,HE,TM,705
+Insecta,Hymenoptera,Sphecidae,Sceliphron caementarium,Thread-waisted wasp,1.1399999999999999,,FCM,BR,DM,705
+Insecta,Hymenoptera,Sphecidae,Stictiella serrata,Thread-waisted wasp,0.78000000000000003,,FIA,HE,TM,705
+Insecta,Hymenoptera,Trichogrammatidae,Trichogramma brassicae,Parasitic wasp,0.25,,FCM,BR,DM,237
+Insecta,Hymenoptera,Trichogrammatidae,Trichogramma platneri,Wasp,0.17999999999999999,,FCM,BR,DM,705
+Insecta,Hymenoptera,Trichogrammatidae,Trichogramma pretiosum,Wasp,0.19,,FCM,BR,DM,705
+Insecta,Hymenoptera,Vespidae,Dolichovespula arenaria,Yellow jacket,0.32000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Vespidae,Eumenes fraternus,Potter wasp,0.22,,FIA,HE,TM,705
+Insecta,Hymenoptera,Vespidae,Eumenes smithii,Potter wasp,0.29999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Vespidae,Euodynerus cf. hidalgo,Wasp,0.29999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Vespidae,Polistes carolina,Paper wasp,0.38,,FCM,BR,DM,725
+Insecta,Hymenoptera,Vespidae,Polistes dominula,European paper wasp,0.28999999999999998,,FCM,BR,DM,705
+Insecta,Hymenoptera,Vespidae,Polistes dominula,Paper wasp,0.31,,FCM,BR,DM,237
+Insecta,Hymenoptera,Vespidae,Polistes dorsalis,Paper wasp,0.47999999999999998,,FIA,HE,TM,705
+Insecta,Hymenoptera,Vespidae,Polistes exclamans,Paper wasp,0.55000000000000004,,FCM,BR,DM,725
+Insecta,Hymenoptera,Vespidae,Polistes fuscatus,Northern paper wasp,0.31,,FIA,HE,TM,705
+Insecta,Hymenoptera,Vespidae,Polistes fuscatus,Northern paper wasp,0.40999999999999998,,FCM,BR,DM,705
+Insecta,Hymenoptera,Vespidae,Polistes metricus,Metricus paper wasp,0.23999999999999999,,FIA,HE,TM,705
+Insecta,Hymenoptera,Vespidae,Symmorphus canadensis,Potter wasp,0.23000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Vespidae,Vespula germanica,German yellow jacket,0.23000000000000001,,FCM,BR,DM,705
+Insecta,Hymenoptera,Vespidae,Vespula germanica,German yellowjacket,0.23000000000000001,,FCM,BR,DV,725
+Insecta,Hymenoptera,Vespidae,Vespula maculifrons,Eastern yellow jacket,0.22,,FCM,BR,DM,705
+Insecta,Hymenoptera,Vespidae,Vespula squamosa,Souther yellowjacket,0.23999999999999999,,FCM,BR,DM,725
+Insecta,Hymenoptera,Vespidae,Vespula squamosa,Southern yellow jacket,0.17000000000000001,,FIA,HE,TM,705
+Insecta,Hymenoptera,Vespidae,Vespula vulgaris,Common wasp,0.17999999999999999,,FCM,BR,DM,705
+Insecta,Hymenoptera,Vespidae,Vespula vulgaris,Common wasp,0.22,,FCM,BR,DV,725
+Insecta,Hymenoptera,Vespidae,Zethus slossonae,Mason wasp,0.14999999999999999,,FIA,HE,TM,705
+Insecta,Isoptera,Hodotermitidae,Hodotermes mossambicus,Termite,1,,FIA,HE,DM,679
+Insecta,Isoptera,Kalotermitidae,Glyptotermes fuscus,Termite,1.5600000000000001,,FIA,HE,DM,679
+Insecta,Isoptera,Kalotermitidae,Glyptotermes nakajimai,Termite,0.89000000000000001,,FIA,HE,DM,679
+Insecta,Isoptera,Kalotermitidae,Neotermes koshunensis,Termite,1.8700000000000001,,FIA,HE,DM,679
+Insecta,Isoptera,Mastotermitidae,Mastotermes darwiniensis,Termite,1.3,,FIA,HE,DM,679
+Insecta,Isoptera,Rhinotermitidae,Coptotermes formosanus,Formosan subterranean termite,0.93000000000000005,,FCM,BR,DM,725
+Insecta,Isoptera,Rhinotermitidae,Coptotermes formosanus,Termite,0.85999999999999999,,FIA,HE,DM,679
+Insecta,Isoptera,Rhinotermitidae,Reticulitermes flavipes,Eastern subterranean termite,1.0700000000000001,,FCM,BR,DM,725
+Insecta,Isoptera,Rhinotermitidae,Reticulitermes speratus kyushuensis,Termite,1.0700000000000001,,FIA,HE,DM,679
+Insecta,Isoptera,Rhinotermitidae,Reticulitermes speratus speratus,Termite,1.01,,FIA,HE,DM,679
+Insecta,Isoptera,Rhinotermitidae,Reticulitermes yaeyamanus,Termite,1,,FIA,HE,DM,679
+Insecta,Isoptera,Termitidae,Nasutitermes takasagoensis,Termite,1.6799999999999999,,FIA,HE,DM,679
+Insecta,Isoptera,Termitidae,Odontotermes formosanus,Termite,1.48,,FIA,HE,DM,679
+Insecta,Isoptera,Termitidae,Pericapritermes nitobei,Termite,1.8999999999999999,,FIA,HE,DM,679
+Insecta,Isoptera,Termopsidae,Hodotermopsis sjostedti,Termite,1.27,,FIA,HE,DM,679
+Insecta,Isoptera,Termopsidae,Zootermopsis nevadensis,Termite,0.57999999999999996,,FIA,HE,DM,679
+Insecta,Lepidoptera,Arctiidae,Cisseps fulvicollis,Yellow-collared scape moth,0.46000000000000002,,FCM,BR,DM,725
+Insecta,Lepidoptera,Arctiidae,Ctenucha virginica,Virginia Ctenucha,0.5,,FIA,S,DM,177
+Insecta,Lepidoptera,Arctiidae,Euchaetes egle,Milkweed tiger moth,0.79000000000000004,,FIA,S,DM,177
+Insecta,Lepidoptera,Arctiidae,Grammea virgo,Virgin tiger moth,0.97999999999999998,,FIA,S,DM,177
+Insecta,Lepidoptera,Arctiidae,Halisidota tesselaris,Tiger moth,0.60999999999999999,,FIA,S,DM,177
+Insecta,Lepidoptera,Arctiidae,Hyphantria cunea,Fall webworm moth,0.66000000000000003,,FIA,S,DM,177
+Insecta,Lepidoptera,Arctiidae,Hypoprepia fucosa,Painted lichen moth,1.1299999999999999,,FIA,S,DM,177
+Insecta,Lepidoptera,Arctiidae,Spilosoma virginica,Virginian tiger moth,0.64000000000000001,,FIA,S,DM,177
+Insecta,Lepidoptera,Bombycidae,Bombyx mandarina,Wild silkmoth,0.47999999999999998,,FCM,BR,DV,725
+Insecta,Lepidoptera,Bombycidae,Bombyx mori,Silkworm moth,0.52000000000000002,,FD,"HE, S","DM, GD, XL",415
+Insecta,Lepidoptera,Bombycidae,Bombyx mori,Silkworm moth,0.53000000000000003,,BCA,WB,NS,142
+Insecta,Lepidoptera,Crambidae,Leucinodes orbonalis,Eggplant fruit and shoot borer,0.53000000000000003,,FCM,BR,GD,588
+Insecta,Lepidoptera,Crambidae,Maruca vitrata,Bean pod borer,0.83999999999999997,,FCM,BR,GD,588
+Insecta,Lepidoptera,Danaidae,Danaus plexippus,Monarch butterfly,0.28999999999999998,,FIA,HE,GD,177
+Insecta,Lepidoptera,Drepanidae,Drepana arcuata,Arched hooktip moth,0.31,,FIA,S,DM,177
+Insecta,Lepidoptera,Drepanidae,Drepana bilineata,Two-lined hooktip moth,0.34000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Gelechiidae,Tuta absoluta,South American tomato pinworm,0.63,,FCM,BR,GD,588
+Insecta,Lepidoptera,Geometridae,Ennomine sp.,Geometer moth,0.45000000000000001,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Ennomos subsignarius,Elm spanworm moth,0.40000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Euchlaena irraria,Least-marked Euchlaena,1.9399999999999999,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Guenovia simcloria,Geometer moth,0.40000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Lycia pomonaria,Moth,1.46,,NS,NS,NS,395
+Insecta,Lepidoptera,Geometridae,Metanema determinata,Dark Metanema,1.01,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Nepytia canosaria,False hemlock looper,0.77000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Prochoerodes transversata,Maple spanworm moth,0.84999999999999998,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Scopula limboundata,Larger lace border moth,0.46000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Semiothisa bisignata,Red-headed inchworm moth,0.34000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Unknown sp.1,Geometer moth,0.47999999999999998,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Unknown sp.2,Geometer moth,0.48999999999999999,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Unknown sp.3,Geometer moth,0.51000000000000001,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Unknown sp.4,Geometer moth,0.83999999999999997,,FIA,S,DM,177
+Insecta,Lepidoptera,Geometridae,Xanthotype sospeta,Geometer moth,0.32000000000000001,,FIA,S,DM,177
+Insecta,Lepidoptera,Heliconiidae,Heliconius erato petiverana,Crimson-patched longwing butterfly,0.40999999999999998,,FCM,BR,DM,628
+Insecta,Lepidoptera,Heliconiidae,Heliconius melpomene,Postman butterfly,0.29999999999999999,,FCM,BR,DM,626
+Insecta,Lepidoptera,Lasiocampidae,Malacosoma americana,Eastern tent caterpillar moth,0.51000000000000001,,FIA,S,DM,177
+Insecta,Lepidoptera,Lasiocampidae,Malacosoma disstria,Forest tent caterpillar moth,0.56999999999999995,,FIA,S,DM,177
+Insecta,Lepidoptera,Lycaenidae,Jalmenus evagoras,Common imperial blue butterfly,0.23000000000000001,,FCM,BR,DM,725
+Insecta,Lepidoptera,Lymantriidae,Lymantria dispar,Gypsy moth,1.03,,NS,NS,NS,395
+Insecta,Lepidoptera,Noctuidae,Busseola fusca,Maize stalk borer,0.96999999999999997,,FCM,BR,DV,802
+Insecta,Lepidoptera,Noctuidae,Busseola nairobica,Owlet moth,0.91000000000000003,,FCM,BR,DV,802
+Insecta,Lepidoptera,Noctuidae,Busseola segeta,Owlet moth,0.85999999999999999,,FCM,BR,DV,802
+Insecta,Lepidoptera,Noctuidae,Caenurgina crassiuscula,Owlet moth,1.5,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Calophasia lunula,Owlet moth,0.68999999999999995,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Cerma cerintha,Tufted bird dropping moth,1.05,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Condica videns,White-dotted groundling moth,0.54000000000000004,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Cucullia intermedia,Owlet moth,0.46000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Eudryas grata,Beautiful wood nymph moth,0.38,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Heliothis virescens,Tobacco budworm moth,0.40999999999999998,,FCM,V,"GD, OM",492
+Insecta,Lepidoptera,Noctuidae,Lacinipolia renigera,Owlet moth,0.59999999999999998,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Macronoctua onusta,Iris borer moth,0.67000000000000004,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Noctua pronuba,Large yellow underwing moth,0.56999999999999995,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Panthea pallescens,Tufted white pine caterpillar moth,0.85999999999999999,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Papaipema nepheleptena,Owlet moth,0.66000000000000003,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Raphia frater,Brother moth,0.73999999999999999,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Sesamia calamistis,African pink stem borer,0.97999999999999998,,FCM,BR,DV,802
+Insecta,Lepidoptera,Noctuidae,Sesamia nonagrioides,Mediterranean corn borer,0.96999999999999997,,FCM,BR,DV,802
+Insecta,Lepidoptera,Noctuidae,Unknown sp.1,Owlet moth,0.64000000000000001,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Unknown sp.2,Owlet moth,0.90000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Unknown sp.3,Owlet moth,0.98999999999999999,,FIA,S,DM,177
+Insecta,Lepidoptera,Noctuidae,Xestia c-nigrum,Spotted cutworm moth,0.78000000000000003,,FIA,S,DM,177
+Insecta,Lepidoptera,Notodontidae,Gluphisia septentrionis,Common Gluphisia,0.35999999999999999,,FIA,S,DM,177
+Insecta,Lepidoptera,Notodontidae,Heterocampa bilineata,Prominent moth,0.59999999999999998,,FIA,S,DM,177
+Insecta,Lepidoptera,Notodontidae,Nadata gibbosa,White-dotted prominent moth,0.33000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Notodontidae,Peridea basitriens,Oval-based prominent moth,0.35999999999999999,,FIA,S,DM,177
+Insecta,Lepidoptera,Notodontidae,Unknown sp.,Prominent moth,0.46000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Nymphalidae,Hypolimnas bolina,Great eggfly,0.45000000000000001,,FCM,BR,DM,725
+Insecta,Lepidoptera,Nymphalidae,Limenitis arthemis,White admiral butterfly,0.39000000000000001,,FCM,BR,DM,725
+Insecta,Lepidoptera,Papilionidae,Papilio canadensis,Canadian tiger swallowtail butterfly,0.44,,FIA,HE,TM,177
+Insecta,Lepidoptera,Papilionidae,Papilio cresphontes,Giant swallowtail,0.23999999999999999,,FCM,BR,DM,725
+Insecta,Lepidoptera,Papilionidae,Papilio glaucus,Easter tiger swallowtail butterfly,0.44,,FIA,HE,TM,177
+Insecta,Lepidoptera,Papilionidae,Papilio polyxenes,Black swallowtail,0.26000000000000001,,FCM,BR,DM,725
+Insecta,Lepidoptera,Prodoxidae,Tegeticula corruptrix,Yucca moth,0.37,,FCM,BR,DM,725
+Insecta,Lepidoptera,Prodoxidae,Tegeticula yuccasella,Yucca moth,0.40000000000000002,,FCM,BR,DM,725
+Insecta,Lepidoptera,Pterophoridae,Unknown sp.1,Plume moth,0.88,,FIA,S,DM,177
+Insecta,Lepidoptera,Pterophoridae,Unknown sp.2,Plume moth,0.58999999999999997,,FIA,S,DM,177
+Insecta,Lepidoptera,Pyralidae,Acrobasis nuxvorella,Pecan nut casebearer,0.72999999999999998,,FCM,BR,DV,725
+Insecta,Lepidoptera,Pyralidae,Galleria melonella,Wax moth,0.5,,FD,"HE, S","DM, GD, OM",423
+Insecta,Lepidoptera,Saturniidae,Actias luna,Luna moth,0.56000000000000005,,FCM,BR,DV,725
+Insecta,Lepidoptera,Saturniidae,Antheraea pernyi,Chinese oak silkmoth,1,,FD,TS,DM,121
+Insecta,Lepidoptera,Saturniidae,Antheraea polyphemus,Polyphemus moth,0.54000000000000004,,FCM,BR,DV,725
+Insecta,Lepidoptera,Saturniidae,Automeris io,Io moth,0.47999999999999998,,FCM,BR,DV,725
+Insecta,Lepidoptera,Satyridae,Bicyclus anynana,African butterfly,0.48999999999999999,,FIA,"HE, S","DM, TM",177
+Insecta,Lepidoptera,Sphingidae,Agrius cingulata,Sweet potato hornworm,0.47999999999999998,,FCM,BR,DM,725
+Insecta,Lepidoptera,Sphingidae,Ceratoma undulosa,Waved sphinx moth,0.46999999999999997,,FCM,BR,DM,725
+Insecta,Lepidoptera,Sphingidae,Darapsa myron,Virginia creeper sphinx,0.64000000000000001,,FCM,BR,DV,725
+Insecta,Lepidoptera,Sphingidae,Daraspsa pholus,Azalea sphinx,0.57999999999999996,,FCM,BR,DV,725
+Insecta,Lepidoptera,Sphingidae,Eumorpha vitis,Vine sphinx,0.44,,FCM,BR,DV,725
+Insecta,Lepidoptera,Sphingidae,Hyles lineata,White-lined sphinx,0.46000000000000002,,FCM,BR,DV,725
+Insecta,Lepidoptera,Sphingidae,Manduca sexta,Carolina sphinx,0.42999999999999999,,FCM,BR,DV,725
+Insecta,Lepidoptera,Sphingidae,Pachysphinx modesta,Modest sphinx,0.46000000000000002,,FIA,S,DM,177
+Insecta,Lepidoptera,Sphingidae,Paonias excaecatus,Blinded sphinx,0.57999999999999996,,FIA,S,DM,177
+Insecta,Lepidoptera,Sphingidae,Paonias myops,Small-eyed sphinx,0.63,,FIA,S,DM,177
+Insecta,Lepidoptera,Sphingidae,Smerinthus jamaicensis,Twin-spotted sphinx,0.68000000000000005,,FIA,S,DM,177
+Insecta,Lepidoptera,Yponomeutidae,Atteva punctella,Alianthus webworm,0.66000000000000003,,FCM,BR,DV,725
+Insecta,Mantodea,Hymenopodidae,Acromantis japonica,Mantis,4.5300000000000002,,FIA,HE,DM,679
+Insecta,Mantodea,Mantidae,Litaneutria sp.,Praying mantis,3.3199999999999998,,FCM,BR,DV,725
+Insecta,Mantodea,Mantidae,Stagmomantis carolina,Carolina mantis,3.9500000000000002,,FCM,BR,DV,725
+Insecta,Mantodea,Mantidae,Statilia maculata,Mantis,3.0499999999999998,,FIA,HE,DM,679
+Insecta,Mantodea,Mantidae,Tenodera aridifolia,Mantis,2.9199999999999999,,FIA,HE,DM,679
+Insecta,Mecoptera,Panorpidae,Panorpa nuptialis,Orange-banded black scorpionfly,2.0600000000000001,,FCM,BR,DV,725
+Insecta,Odonata,Aeshnidae,Aeshna canadensis,Canada darner dragonfly,2.2000000000000002,28,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Aeshna coerulea,Dragonfly,1.6000000000000001,,BCA,INT,NS,658
+Insecta,Odonata,Aeshnidae,Aeshna constricta,Lance-tipped darner dragonfly,1.76,,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Aeshna eremita,Lake darner dragonfly,1.8500000000000001,,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Aeshna juncea,Sedge darner,1,,BCA,INT,NS,658
+Insecta,Odonata,Aeshnidae,Aeshna tuberculifera,Black-tipped darner dragonfly,1.78,,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Aeshna umbrosa,Shadow darner dragonfly,2,28,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Aeshna verticalis,Green-striped darner dragonfly,1.5900000000000001,,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Anax junius,Green darner dragonfly,1.4399999999999999,28,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Basiaeschna janata,Springtime darner dragonfly,1.1599999999999999,26,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Epiaeschna heros,Swamp darner dragonfly,1.4399999999999999,,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Gomphaeschna furcillata,Harlequin darner dragonfly,1.2,,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Nasiaeschna pentacantha,Cyrano darner dragonfly,1.3100000000000001,,FIA,S,DM,689
+Insecta,Odonata,Aeshnidae,Rhionaeschna bonariensis,Dragonfly,1.8100000000000001,26,FD,S,GD,657
+Insecta,Odonata,Aeshnidae,Rhionaeschna confusa,Darner dragonfly,2.1600000000000001,27,FD,S,GD,657
+Insecta,Odonata,Aeshnidae,Rhionaeschna planaltica,Dragonfly,2.0800000000000001,26,FD,S,GD,657
+Insecta,Odonata,Calopterygidae,Calopteryx aequabilis,River jewelwing damselfly,1.1100000000000001,26,FIA,S,DM,689
+Insecta,Odonata,Calopterygidae,Calopteryx dimidiata,Sparkling jewelwing damselfly,0.93999999999999995,26,FIA,S,DM,689
+Insecta,Odonata,Calopterygidae,Calopteryx maculata,Ebony jewelwing damselfly,1,26,FIA,S,DM,689
+Insecta,Odonata,Calopterygidae,Calopteryx splendens,Broad-winged damselfly,1.5,,BCA,INT,NS,658
+Insecta,Odonata,Calopterygidae,Hetaerina americana,American rubyspot damselfly,1.1100000000000001,26,FIA,HE,TM,689
+Insecta,Odonata,Coenagrionidae,Amphiagrion saucium,Eastern red damselfly,0.89000000000000001,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Argia apicalis,Blue-fronted dancer damselfly,0.88,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Argia bipunctulata,Seepage dancer damselfly,0.93999999999999995,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Argia fumipennis,Violet dancer damselfly,0.93000000000000005,28,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Argia moesta,Powdered dancer damselfly,0.90000000000000002,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Argia sedulla,Dancer damselfly,0.90000000000000002,28,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Argia tibialis,Blue-tipped dancer damselfly,0.88,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma annexum,Northern bluet damselfly,1.1399999999999999,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma antennatum,Rainbow bluet damselfly,1.3500000000000001,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma basidens,Double-striped bluet damselfly,0.93999999999999995,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma boreale,Boreal bluet damselfly,1.26,28,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma carunculatum,Tule bluet damselfly,1,28,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma civile,Familiar bluet damselfly,1.1000000000000001,28,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma cyathigerum,Common blue damselfly,0.69999999999999996,,BCA,INT,NS,658
+Insecta,Odonata,Coenagrionidae,Enallagma cyathigerum,Common blue damselfly,1.2,28,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma doubledayi,Altlantic bluet damselfly,1.1499999999999999,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma durum,Big bluet damselfly,1.2,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma ebrium,Marsh bluet damselfly,1.1799999999999999,28,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma exsulans,Stream bluet damselfly,1.1799999999999999,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma geminatum,Skimming bluet damselfly,1.0800000000000001,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma hageni,Hagens bluet damselfly,1.1899999999999999,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma signatum,Orange bluet damselfly,1.28,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Enallagma vesperum,Vesper bluet damselfly,1.3400000000000001,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Ischnura posita,Fragile forktail damselfly,0.95999999999999996,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Ischnura ramburii,Ramburs forktail damselfly,0.88,28,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Ischnura verticalis,Eastern forktail damselfly,0.96999999999999997,28,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Nehalennia integricollis,Southern sprite damselfly,1.53,,FIA,S,DM,689
+Insecta,Odonata,Coenagrionidae,Nehalennia irene,Sedge sprite damselfly,1.8,28,FIA,S,DM,689
+Insecta,Odonata,Cordulegastridae,Cordulegaster coronatus,Dragonfly,1.7,,BCA,INT,NS,658
+Insecta,Odonata,Cordulegastridae,Cordulegaster maculata,Twin-spotted spiketail dragonfly,0.93999999999999995,26,FIA,HE,TM,689
+Insecta,Odonata,Corduliidae,Cordulia shurtleffi,American emerald dragonfly,1.54,26,FIA,HE,TM,689
+Insecta,Odonata,Corduliidae,Dorocordulia libera,Racket-tailed emerald dragonfly,0.97999999999999998,12,FIA,S,DM,689
+Insecta,Odonata,Corduliidae,Epitheca canis,Beaverpond baskettail dragonfly,1,26,FIA,S,DM,689
+Insecta,Odonata,Corduliidae,Epitheca cynosura,Common baskettail dragonfly,1.1000000000000001,20,FIA,S,DM,689
+Insecta,Odonata,Corduliidae,Epitheca princeps,Prince baskettail dragonfly,0.97999999999999998,,FIA,HE,TM,689
+Insecta,Odonata,Corduliidae,Epitheca spinigera,Spiny baskettail dragonfly,1.3200000000000001,26,FIA,S,DM,689
+Insecta,Odonata,Corduliidae,Neurocordulia yamaskanensis,Stygian shadowdragon,1.0800000000000001,,FIA,S,DM,689
+Insecta,Odonata,Corduliidae,Somatochlora elongata,Ski-tailed emerald dragonfly,2.3599999999999999,,FIA,HE,TM,689
+Insecta,Odonata,Corduliidae,Somatochlora williamsoni,Williamsons emerald dragonfly,1.8,,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Arigomphus pallidus,Gray-green clubtail dragonfly,0.82999999999999996,24,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Arigomphus villosipes,Univorn clubtail dragonfly,0.81999999999999995,,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Dromogomphus spinosus,Black-shouldered spinyleg dragonfly,0.56999999999999995,24,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Gomphus cavillaris,Sandhill clubtail dragonfly,0.70999999999999996,,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Gomphus dilatatus,Blackwater clubtail dragonfly,0.76000000000000001,,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Gomphus exilis,Lancet clubtail dragonfly,0.70999999999999996,24,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Gomphus flavipes,River clubtail dragonfly,0.37,,BCA,INT,NS,658
+Insecta,Odonata,Gomphidae,Gomphus geminatus,Twin-striped clubtail dragonfly,0.78000000000000003,,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Gomphus graslinellus,Pronghorn clubtail dragonfly,0.72999999999999998,,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Gomphus minutus,Cypress clubtail dragonfly,0.75,,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Gomphus spicatus,Dusky clubtail dragonfly,0.71999999999999997,24,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Hagenius brevistylus,Dragonhunter,0.93000000000000005,,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Lindenia tetraphylla,Bladetail dragonfly,0.40000000000000002,,BCA,INT,NS,658
+Insecta,Odonata,Gomphidae,Ophiogomphus cecilia,Dragonfly,0.37,,BCA,INT,NS,658
+Insecta,Odonata,Gomphidae,Ophiogomphus rupinsulensis,Rusty snaketail dragonfly,0.93999999999999995,24,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Progomphus obscurus,Common sanddragon,0.60999999999999999,24,FIA,S,DM,689
+Insecta,Odonata,Gomphidae,Stylogomphus albistylus,Eastern least clubtail dragonfly,0.71999999999999997,,FIA,S,DM,689
+Insecta,Odonata,Lestidae,Lestes congener,Spotted spreadwing damselfly,0.59999999999999998,26,FIA,S,DM,689
+Insecta,Odonata,Lestidae,Lestes dryas,Emerald spreadwing damselfly,0.71999999999999997,26,FIA,S,DM,689
+Insecta,Odonata,Lestidae,Lestes eurinus,Amber-winged spreadwing damselfly,0.59999999999999998,,FIA,S,DM,689
+Insecta,Odonata,Lestidae,Lestes forcipatus,Sweetflag spreadwing damselfly,0.63,22,FIA,S,DM,689
+Insecta,Odonata,Lestidae,Lestes inaequalis,Elegant spreadwing damselfly,0.58999999999999997,,FIA,S,DM,689
+Insecta,Odonata,Lestidae,Lestes rectangularis,Slender spreadwing damselfly,0.72999999999999998,26,FIA,S,DM,689
+Insecta,Odonata,Lestidae,Lestes unguiculatus,Lyre-tipped spreadwing damselfly,0.62,,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Brachymesia gravida,Four-spotted pennant dragonfly,0.68999999999999995,,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Celithemis bertha,Red-veined pennant dragonfly,0.88,,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Celithemis elisa,Calico pennant dragonfly,0.77000000000000002,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Celithemis eponina,Halloween pennant dragonfly,0.91000000000000003,,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Celithemis ornata,Faded pennant dragonfly,0.54000000000000004,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Erythemis simplicicollis,Eastern pondhawk dragonfly,0.56000000000000005,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Erythrodiplax minuscula,Little blue dragonlet,0.67000000000000004,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Ladona deplanata,Blue corporal dragonfly,0.59999999999999998,,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Ladona julia,Chalk-fronted corporal dragonfly,0.62,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Leucorrhinia glacialis,Crimson-ringed whiteface dragonfly,0.97999999999999998,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Leucorrhinia hudsonica,Hudsonian whiteface dragonfly,0.93999999999999995,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Leucorrhinia intacta,Dot-tailed whiteface dragonfly,0.93000000000000005,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Leucorrhinia proxima,Belted whiteface dragonfly,1.27,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Libellula incesta,Slaty skimmer dragonfly,0.73999999999999999,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Libellula luctuosa,Widow skimmer dragonfly,0.87,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Libellula pulchella,Twelve-spotted skimmer dragonfly,0.83999999999999997,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Libellula quadrimaculata,Four-spotted skimmer,0.67000000000000004,,BCA,INT,NS,658
+Insecta,Odonata,Libellulidae,Libellula vibrans,Great blue skimmer dragonfly,0.94999999999999996,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Miathyria marcella,Hyacinth glider dragonfly,0.40999999999999998,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Orthetrum ramburi,Dragonfly,0.65000000000000002,,BCA,INT,NS,658
+Insecta,Odonata,Libellulidae,Perithemis tenera,Eastern amberwing dragonfly,0.68000000000000005,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Plathemis lydia,Common whitetail dragonfly,0.62,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Sympetrum internum,Cherry-faced meadowhawk,0.78000000000000003,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Sympetrum meridionale,Southern darter,0.65000000000000002,,BCA,INT,NS,658
+Insecta,Odonata,Libellulidae,Sympetrum obtrusum,White-faced meadowhawk,0.81999999999999995,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Sympetrum vicinum,Yellow-legged meadowhawk,0.77000000000000002,,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Tramea carolina,Carolina saddlebags dragonfly,0.67000000000000004,26,FIA,S,DM,689
+Insecta,Odonata,Libellulidae,Tramea lacerata,Black saddlebags dragonfly,0.67000000000000004,26,FIA,HE,TM,689
+Insecta,Odonata,Macromiidae,Didymops transversa,Stream cruiser dragonfly,1.0800000000000001,26,FIA,HE,TM,689
+Insecta,Odonata,Macromiidae,Macromia illionensis georgina,Cruiser dragonfly,1.0700000000000001,,FIA,HE,TM,689
+Insecta,Orthoptera,Acrididae,Acrida cinerea,Chinese grasshopper,12.039999999999999,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Acrida conica,Grasshopper,10.82,,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Acrida conica,Grasshopper,12.550000000000001,,FD,HE,"GD, OM",423
+Insecta,Orthoptera,Acrididae,Ailopus thalassinus,Grasshopper,6.6799999999999997,,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Aiolopus thalassinus tamulus,Grasshopper,8.6500000000000004,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Angaracris barabensis,Grasshopper,15.449999999999999,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Arcyptera meridionalis,Grasshopper,13.59,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Austroicetes pusilla,Grasshopper,6.29,,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Bryodema dolichoptera,Grasshopper,19.379999999999999,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Bryodema kozlovi,Grasshopper,18.870000000000001,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Bryodema luctuosa luctuosa,Grasshopper,18.710000000000001,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Bryodema miramae miramae,Grasshopper,16.670000000000002,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Bryodema nigroptera,Grasshopper,18.129999999999999,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Bryodemacris uvarovi,Grasshopper,19.059999999999999,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Bryodemella holdereri,Grasshopper,19.039999999999999,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Bryodemella tuberculata diluta,Grasshopper,18.940000000000001,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Caledia captiva,Grasshopper,10.9,,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Calliptamus abbreviatus,Grasshopper,10.039999999999999,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Calliptamus barbarus,European locust,11.73,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Calliptamus italicus,Italian locust,10.369999999999999,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Campylacantha olivacea,Fuzzy olive-green grasshopper,6.5700000000000003,,FCM,BR,GD,725
+Insecta,Orthoptera,Acrididae,Celes skalozubovi,Grasshopper,20.899999999999999,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Ceracris kiangsu,Grasshopper,11.6,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Ceracris nigricornis nigricornis,Grasshopper,13.050000000000001,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Chondracris rosea,Grasshopper,10.49,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Chorthippus albonemus,Grasshopper,9.5600000000000005,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Chorthippus apicalis,Grasshopper,12.609999999999999,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus binotatus binotatus,Grasshopper,10.91,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus brunneus,Field grasshopper,8.5500000000000007,18,FD,TS,LM,233
+Insecta,Orthoptera,Acrididae,Chorthippus brunneus,Field grasshopper,9.4600000000000009,,FD,TS,MM,558
+Insecta,Orthoptera,Acrididae,Chorthippus brunneus,Field grasshopper,10.15,,FD,TS,AC,170
+Insecta,Orthoptera,Acrididae,Chorthippus cf. binotatus,Grasshopper,10.35,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus dorsatus,Grasshopper,8.3399999999999999,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus fallax,Grasshopper,10.93,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Chorthippus hsiai,Grasshopper,8.7599999999999998,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Chorthippus huchengensis,Grasshopper,10.67,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Chorthippus jacobsi,Grasshopper,10.84,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus jucundus,Grasshopper,11.880000000000001,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus longicornis,Grasshopper,8.5800000000000001,,FD,TS,AC,170
+Insecta,Orthoptera,Acrididae,Chorthippus nevadensis,Grasshopper,11.529999999999999,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus parallelus,Meadow grasshopper,12.31,18,FD,TS,LM,233
+Insecta,Orthoptera,Acrididae,Chorthippus parallelus,Meadow grasshopper,13.359999999999999,,FD,TS,MM,558
+Insecta,Orthoptera,Acrididae,Chorthippus parallelus,Meadow grasshopper,13.83,,NS,NS,NS,395
+Insecta,Orthoptera,Acrididae,Chorthippus parallelus,Meadow grasshopper,14.720000000000001,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus qingzangensis,Grasshopper,9.75,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Chorthippus scalaris,Grasshopper,14.720000000000001,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus vagans,Grasshopper,8.6400000000000006,,FD,TS,GD,40
+Insecta,Orthoptera,Acrididae,Chorthippus vagans,Grasshopper,8.6799999999999997,,FD,TS,AC,170
+Insecta,Orthoptera,Acrididae,Chortoicetes terminifera,Grasshopper,5.9900000000000002,,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Chortoicetes terminifera,Grasshopper,7.2199999999999998,,FD,TS,MM,558
+Insecta,Orthoptera,Acrididae,Cryptobothrus chrysophorus,Grasshopper,9.3699999999999992,24,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Eremippus mongolicus,Grasshopper,10.970000000000001,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Euchorthippus unicolor,Grasshopper,11.93,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Eyprepocnemis plorans,Grasshopper,9.6999999999999993,,FIA,S,LM,714
+Insecta,Orthoptera,Acrididae,Fruhstorferiola huayinensis,Grasshopper,8.6999999999999993,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Fruhstorferiola omei,Grasshopper,9.0899999999999999,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Fruhstorferiola tonkinensis,Grasshopper,10.01,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Gastrimargus marmoratus,Grasshopper,10.6,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Gastrimargus musicus,Grasshopper,9.0099999999999998,,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Gomphocerus licenti,Grasshopper,13,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Gomphocerus sibiricus,Grasshopper,8.9499999999999993,,FD,TS,AC,170
+Insecta,Orthoptera,Acrididae,Heteracris adspersus,Grasshopper,6.3399999999999999,,FD,TS,AC,170
+Insecta,Orthoptera,Acrididae,Heteropternis rufipes,Grasshopper,10.27,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Hieroglyphus annulicornis,Grasshopper,13.220000000000001,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Humbe tenuicornis,Grasshopper,8.2100000000000009,24,FD,TS,LM,233
+Insecta,Orthoptera,Acrididae,Locusta migratoria,Migratory locust,5.2800000000000002,,FD,S,MD,53
+Insecta,Orthoptera,Acrididae,Locusta migratoria,Migratory locust,5.4699999999999998,24,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Locusta migratoria,Migratory locust,6.0899999999999999,,FD,TS,MM,558
+Insecta,Orthoptera,Acrididae,Locusta migratoria,Migratory locust,6.2699999999999996,,FD,V,MM,136
+Insecta,Orthoptera,Acrididae,Locusta migratoria,Migratory locust,6.3499999999999996,,FD,HE,"GD, OM",423
+Insecta,Orthoptera,Acrididae,Locusta migratoria,Migratory locust,6.4400000000000004,,FCM,NS,MM,771
+Insecta,Orthoptera,Acrididae,Macrotona australis,Grasshopper,8.4900000000000002,24,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Megaulacobothrus chinensis,Grasshopper,10.65,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Melanoplus differentialis,Differential grasshopper,3.8399999999999999,24,FD,"OV, TS",BO,489
+Insecta,Orthoptera,Acrididae,Melanoplus differentialis,Differential grasshopper,6.2300000000000004,,FD,HE,"GD, OM",576
+Insecta,Orthoptera,Acrididae,Melanoplus differentialis,Differential grasshopper,7.0300000000000002,,FCM,BR,PA,725
+Insecta,Orthoptera,Acrididae,Melanoplus sanguinipes,Grasshopper,5.8300000000000001,,FD,HE,"GD, OM",576
+Insecta,Orthoptera,Acrididae,Mongolotettix anomopterus,Grasshopper,17.199999999999999,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Mongolotettix japonicus,Grasshopper,16.129999999999999,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Myrmeleotettix maculatus,Grasshopper,12.140000000000001,18,FD,TS,LM,233
+Insecta,Orthoptera,Acrididae,Myrmeleotettix maculatus,Grasshopper,12.66,,FD,TS,MM,558
+Insecta,Orthoptera,Acrididae,Myrmeleotettix maculatus,Grasshopper,13.380000000000001,,NS,NS,NS,395
+Insecta,Orthoptera,Acrididae,Oedaleus asiaticus,Grasshopper,9.2599999999999998,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Oedaleus infernalis,Grasshopper,9.6600000000000001,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Oedaleus manjius,Grasshopper,10.15,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Omocestus haemorrhoidalis,Grasshopper,11.84,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Omocestus viridulus,Grasshopper,10.93,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Omocestus viridulus,Grasshopper,13.16,18,FD,TS,LM,233
+Insecta,Orthoptera,Acrididae,Oxya adentata,Grasshopper,11.44,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Oxya agavisa,Grasshopper,13.94,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Oxya chinensis,Grasshopper,11.890000000000001,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Oxya ningpoensis,Grasshopper,13.039999999999999,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Patanga japonica,Grasshopper,10.92,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Peakesia hospita,Grasshopper,10.470000000000001,,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Phaulacridium vittatum,Grasshopper,10.73,24,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Phlaeoba angustidorsis,Grasshopper,13.869999999999999,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Podisma pedestris,Mountain grasshopper,16.93,,FD,S,SG,554
+Insecta,Orthoptera,Acrididae,Pternoscirta caliginosa,Grasshopper,7.0099999999999998,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Schistocerca cancellata,Grasshopper,9.4900000000000002,24,FD,TS,LM,233
+Insecta,Orthoptera,Acrididae,Schistocerca gregaria,Desert locust,8.5500000000000007,24,FD,TS,LM,233
+Insecta,Orthoptera,Acrididae,Schistocerca gregaria,Desert locust,8.7100000000000009,,FD,TS,MM,558
+Insecta,Orthoptera,Acrididae,Schistocerca gregaria,Desert locust,8.9600000000000009,,FD,V,MM,136
+Insecta,Orthoptera,Acrididae,Schistocerca paranensis,Grasshopper,8.6300000000000008,24,FD,TS,LM,233
+Insecta,Orthoptera,Acrididae,Schizobothrus flavovittatus,Grasshopper,7.5,,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Shirakiacris shirakii,Grasshopper,7.4500000000000002,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Sinopodisma jiulianshana,Grasshopper,10.99,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Sinopodisma kelloggii,Grasshopper,9.0500000000000007,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Sinopodisma tsaii,Grasshopper,12.74,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Sinopodisma tsinlingensis,Grasshopper,11.289999999999999,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Sphingonotus ningsianus,Grasshopper,11.01,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Sphingonotus tsinlingensis,Grasshopper,13.1,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Sphingonotus yenchihensis,Grasshopper,13.300000000000001,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Stauroderus scalaris,Grasshopper,16.34,,NS,NS,NS,395
+Insecta,Orthoptera,Acrididae,Stenocatantops mistshenkoi,Grasshopper,10.51,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Tonkinacris sinensis,Grasshopper,12.140000000000001,,FCM,BR,PA,583
+Insecta,Orthoptera,Acrididae,Traulia orientalis,Grasshopper,12.550000000000001,,FCM,BR,LM,583
+Insecta,Orthoptera,Acrididae,Trilophidia annulata,Grasshopper,10.16,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Acrididae,Valanga irregularis,Grasshopper,9.4399999999999995,,FD,TS,GD,433
+Insecta,Orthoptera,Acrididae,Xenocatantops brachycerus,Grasshopper,11.949999999999999,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Dericorythidae,Dericorys annulata,Grasshopper,21.210000000000001,,FCM,BR,PA,583
+Insecta,Orthoptera,Eumasticidae,Warramaba virgo,Grasshopper,3.75,,NS,NS,NS,395
+Insecta,Orthoptera,Eumasticidae,Warramaba virgo,Grasshopper,4,16,FD,BR,GD,556
+Insecta,Orthoptera,Gryllacrididae,Ceuthophilus stygius,Camel cricket,9.5500000000000007,,FD,HE,"GD, OM","422, 423"
+Insecta,Orthoptera,Gryllidae,Acheta domesticus,House cricket,2,12,FD,HE,"GD, OM",423
+Insecta,Orthoptera,Gryllidae,Acheta domesticus,House cricket,2,,FD,"OV, TS","MM, HS",279
+Insecta,Orthoptera,Gryllidae,Acheta domesticus,House cricket,2,,FCM,BR,DM,575
+Insecta,Orthoptera,Gryllidae,Acheta domesticus,House cricket,2,,FIA,HE,GD,575
+Insecta,Orthoptera,Gryllidae,Acheta domesticus,House cricket,2.3799999999999999,,FIA,HE,DM,679
+Insecta,Orthoptera,Gryllidae,Gryllus pennsylvanicus,Field cricket,2,22,FD,HE,"GD, OM",423
+Insecta,Orthoptera,Gryllidae,Gryllus pennsylvanicus,Field cricket,2.0600000000000001,,FD,S,MD,53
+Insecta,Orthoptera,Gryllidae,Gryllus pennsylvanicus,Field cricket,2.6800000000000002,,NS,NS,NS,395
+Insecta,Orthoptera,Gryllidae,Hadenoecus subterraneus,Cave cricket,1.55,,FD,HE,"GD, OM","422, 423"
+Insecta,Orthoptera,Gryllidae,Laupala cerasina,Hawaiian cricket,1.9299999999999999,,FCM,BR,GD,399
+Insecta,Orthoptera,Gryllidae,Oecanthus niveus,Narrow-winged tree cricket,1.71,,FCM,BR,DV,725
+Insecta,Orthoptera,Gryllotalpidae,Neoscapteriscus borellii,Unwelcome mole cricket,3.4100000000000001,,FCM,BR,GD,725
+Insecta,Orthoptera,Pamphagidae,Filchnerella beicki,Grasshopper,14.130000000000001,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Pamphagidae,Filchnerella qilianshanensis,Grasshopper,14.06,,FCM,BR,PA,583
+Insecta,Orthoptera,Pamphagidae,Filchnerella rubimarginis,Grasshopper,16.079999999999998,,FCM,BR,LM,583
+Insecta,Orthoptera,Pamphagidae,Filchnerella tenggerensis,Grasshopper,14.35,,FCM,BR,PA,583
+Insecta,Orthoptera,Pamphagidae,Haplotropis brunneriana,Grasshopper,15.300000000000001,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Pyrgomorphidae,Atractomorpha psittacina,Grasshopper,7.5499999999999998,,FCM,BR,PA,583
+Insecta,Orthoptera,Pyrgomorphidae,Atractomorpha sinensis,Grasshopper,8.3699999999999992,,FCM,BR,"LM, PA",583
+Insecta,Orthoptera,Tettigoniidae,Conocephalus sp.,Lesser meadow katydid,2.8399999999999999,,FCM,BR,GD,725
+Insecta,Orthoptera,Tettigoniidae,Neoconocephalus triops,Broad-tipped conehead katydid,7.6100000000000003,,FCM,BR,GD,725
+Insecta,Orthoptera,Tridactylidae,Unknown sp.,Pygmy mole cricket,2.6299999999999999,,FCM,BR,DV,725
+Insecta,Phasmatodea,Heteronemiidae,Diapheromera femorata,Northern walkingstick,2.5499999999999998,0-0,FIA,"HE, S",GD,181
+Insecta,Phasmatodea,Phasmatidae,Bacillus atticus atticus,Stick insect,2.2999999999999998,34,FCM,MG,MM,310
+Insecta,Phasmatodea,Phasmatidae,Bacillus atticus caprai,Stick insect,2.23,34,FCM,MG,MM,309
+Insecta,Phasmatodea,Phasmatidae,Bacillus atticus carius,Stick insect,2.9399999999999999,34,FCM,MG,MM,310
+Insecta,Phasmatodea,Phasmatidae,Bacillus atticus cyprius,Stick insect,2.4500000000000002,34,FCM,MG,MM,310
+Insecta,Phasmatodea,Phasmatidae,Bacillus grandii grandii,"Stick insect, female",2.6099999999999999,34,FCM,MG,MM,309
+Insecta,Phasmatodea,Phasmatidae,Bacillus grandii grandii,"Stick insect, male",2.1600000000000001,33,FCM,MG,MM,309
+Insecta,Phasmatodea,Phasmatidae,Bacillus rossius redtenbacheri,"Stick insect, female",2.1699999999999999,36,FCM,MG,MM,309
+Insecta,Phasmatodea,Phasmatidae,Bacillus rossius redtenbacheri,"Stick insect, male",1.95,35,FCM,MG,MM,309
+Insecta,Phasmatodea,Phasmatidae,Bacillus whitei,Stick insect,2.27,35,FCM,MG,MM,309
+Insecta,Phasmatodea,Phasmatidae,Clitarchus hookeri,Stick insect,2.5800000000000001,,FCM,L,LM,635
+Insecta,Phasmatodea,Phasmatidae,Extatosoma tiaratum,Leaf insect,8,,FD,BR,AD,345
+Insecta,Phasmatodea,Pseudophasmatidae,Anisomorpha buprestoides,Southern two-striped walkingstick,2.9700000000000002,,FCM,BR,DV,725
+Insecta,Phasmatodea,Timematidae,Timema cristinae,Stick insect,1.3600000000000001,,FCM,BR,DV,736
+Insecta,Phthiraptera,Pediculidae,Pediculus humanus capitis,Human head louse,0.11,,FCM,BR,DM,655
+Insecta,Phthiraptera,Pediculidae,Pediculus humanus humanus,Human body louse,0.11,,FCM,BR,DM,655
+Insecta,Siphonaptera,Pulicidae,Ctenocephalides felis,Cat flea,0.46999999999999997,,FCM,BR,DV,725
+Insecta,Strepsiptera,Myrmecolacidae,Caenocholax fenyesi texensis,Twisted-wing parasite,0.11,,FCM,BR,DM,237
+Insecta,Strepsiptera,Stylopidae,Xenos vesparum,Twisted-wing parasite,0.13,,FCM,BR,DM,237
+Insecta,Thysanoptera,Aeolothripidae,Frankliniella fusca,Thrip,0.40999999999999998,,FCM,BR,DH,723
+Insecta,Thysanoptera,Aeolothripidae,Frankliniella occidentalis,Thrip,0.34999999999999998,,FCM,BR,DH,723
+Insecta,Thysanoptera,Aeolothripidae,Franklinothrips orizabensis,Thrip,0.42999999999999999,,FCM,BR,DV,723
+Insecta,Thysanoptera,Thripidae,Thrips tabaci,Thrip,0.32000000000000001,,FCM,BR,DH,723
+Insecta,Thysanoptera,Thripidae,Thrips tabaci,Thrip,0.48999999999999999,,FCM,BR,DH,723
+Insecta,Thysanura,Lepismatidae,Thermobia domestica,Firebrat,3.0899999999999999,,SCF,WB,DM,138
+Insecta,Zoraptera,Zorotypidae,Zorotypus hubbardi,Zorapteran,1.8899999999999999,,FCM,BR,GD,725
